@@ -1,0 +1,3 @@
+- if got python install can run "py api_data.py" to see output
+- for now i use only 1 url to scrape from products page
+- this is just example but we prolly wont be using this method cause they send us item url which doesnt provide api calls for data.
