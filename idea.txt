@@ -1,0 +1,10 @@
+ajax call example url :
+- https://www.lazada.com.my/mycom/?ajax=true&from=wangpu&langFlag=en&page=1&pageTypeId=2&q=All-Products
+
+JSON : mods -> listItems -> for each (0:16) -> name, sellerName, originalPrice, originalPriceShow, price, priceShow, itemURL
+
+
+-	Loop through all product page from company to get each products
+-	Store data of products [name, sellerName, originalPrice, price, price Show, 		itemURL, etc, etc]
+-	Create comparing function for name to match them.
+-	Might be able to use Lazada search to look for product

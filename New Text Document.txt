@@ -1,3 +1,0 @@
-https://www.lazada.com.my/mycom/?ajax=true&from=wangpu&langFlag=en&page=1&pageTypeId=2&q=All-Products
-
-- ajax=true
