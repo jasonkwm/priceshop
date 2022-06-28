@@ -1,0 +1,1 @@
+source ~/Desktop/priceshop/venv/bin/activate
