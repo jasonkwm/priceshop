@@ -4,9 +4,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.options import Options
 import time
-from bs4 import BeautifulSoup
 import pandas as pd 
-import numpy as np 
 import requests
 import datetime
 
@@ -33,43 +31,57 @@ links = pd.read_csv("~/Desktop/priceshop/selenium/Lazada Links.csv")
 links.drop(columns=['Unnamed: 1', 'Notes for cadets'], inplace=True)
 # for l in links["Lazada Link"]:
 # 	print(l)
+url = []
 name = []
 price = []
 quantity = []
 storage = []
-word = "storage"
-for link in links["Lazada Link"][:10]:
+word = 0
+for link in links["Lazada Link"]:
+	word = 0
 	driver.get(link)
-	# wait.until(EC.presence_of_element_located((By.XPATH, '//*[@id="module_product_title_1"]/div/div/h1')))
-	# driver.execute_script("window.stop();")
 	n = driver.find_element(By.XPATH, '//*[@id="module_product_title_1"]/div/div/h1').get_attribute("innerHTML")
 	p = driver.find_element(By.XPATH, '//*[@id="module_product_price_1"]/div/div/span').get_attribute("innerHTML")
 	q = driver.find_element(By.XPATH, '//*[@id="module_quantity-input"]/div/div/span').get_attribute("innerHTML")
-	# get h6 if store in h6
-	# find for sku-variable-name-selected and click to deselect all
-	# get all element with sku-variable-name
-	# loop through each element with sku-variable-name
-	# get title
-	print(driver.get_cookies())
+	s = ""
 	try:
-		driver.find_element(By.CLASS_NAME, 'sku-variable-name-selected').click()
-		variable = driver.find_element(By.CLASS_NAME, 'sku-variable-name')
-		print(variable)
-		for var in variable:
-			print(var.title)
+		h6 = driver.find_elements(By.XPATH, '//*[@id="module_sku-select"]/div/div/div/h6')
+		i = 0
+		for h in h6:
+			i += 1
+			lower = h.text.lower()
+			if "storage" in lower or "spec" in lower:
+				word = 1
+				txt = driver.find_elements(By.XPATH, f'//*[@id="module_sku-select"]/div/div[{i}]/div/div/div[2]/span')
+				for t in txt:
+					t.click()
+					n = driver.find_element(By.XPATH, '//*[@id="module_product_title_1"]/div/div/h1').get_attribute("innerHTML")
+					p = driver.find_element(By.XPATH, '//*[@id="module_product_price_1"]/div/div/span').get_attribute("innerHTML")
+					q = driver.find_element(By.XPATH, '//*[@id="module_quantity-input"]/div/div/span').get_attribute("innerHTML")
+					s = t.text
+					url.append(link)
+					name.append(n)
+					price.append(p)
+					quantity.append(q)
+					storage.append(s)
+					time.sleep(1)
+				break
 	except:
-		print("nothing to click")
-
-	name.append(n)
-	price.append(p)
-	quantity.append(q)
+		print("banana")
+	if word == 0:
+		url.append(link)
+		name.append(n)
+		price.append(p)
+		quantity.append(q)
+		storage.append(s)
 	time.sleep(2)
 
 df = pd.DataFrame({
-	"productURL" : links["Lazada Link"][:10],
+	"productURL" : url,
 	"productName from URL" : name,
-	"price" : price,
-	"Stock Status from URL" : quantity
+	"price": price,
+	"quantity": quantity,
+	"storage": storage
 })
 df.to_csv(r'~/Desktop/priceshop/test.csv')
 print(datetime.datetime.now() - begin)
