@@ -20,12 +20,12 @@ prefs = {'profile.default_content_setting_values': {'images': 2,'plugins': 2, 'p
         'durable_storage': 2}}
 chrome_options = Options()
 chrome_options.add_argument("--incognito")
+# chrome_options.add_argument('--headless')
 chrome_options.add_experimental_option("prefs", prefs)
 
 path = r"/Users/jakoh/Desktop/priceshop/chromedriver_87"
 service = Service(executable_path=path)
 driver = webdriver.Chrome(service=service, options=chrome_options)
-wait = WebDriverWait(driver, 3)
 
 links = pd.read_csv("~/Desktop/priceshop/selenium/Lazada Links.csv")
 links.drop(columns=['Unnamed: 1', 'Notes for cadets'], inplace=True)
@@ -86,7 +86,8 @@ df = pd.DataFrame({
 	"price": prodPrice
 })
 
-file_name = 'complete.csv'
+file_name = 'temp.csv'
 df.to_csv(f'~/Desktop/priceshop/{file_name}')
 print(f"Output to: {file_name}")
-print(datetime.datetime.now() - begin)
+with open("time.txt", "w") as outfile:
+    outfile.write(str(datetime.datetime.now() - begin))
