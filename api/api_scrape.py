@@ -1,9 +1,9 @@
 import requests
 import json
 
-url = r"https://www.lazada.com.my/mycom/?ajax=true&from=wangpu&langFlag=en&page=1&pageTypeId=2&q=All-Products"
+url = r"https://www.lazada.com.my/shop-mobiles/?bk-gadgets-store&from=wangpu&page=100&ajax=true"
 x = requests.get(url)
 json_obj = json.dumps(x.json())
 
-with open("demo.json", "w") as outfile:
+with open("no.json", "w") as outfile:
     outfile.write(json_obj)
