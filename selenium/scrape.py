@@ -9,10 +9,10 @@ import pandas as pd
 import numpy as np 
 import requests
 
-path = r"/Users/jakoh/Desktop/priceshop/chromedriver_87"
-chrome_options = Options()
+path = r"C:\Users\User\Desktop\priceshop\chromedriver_windows.exe"
+# chrome_options = Options()
 driver = webdriver.Chrome(path)
-wait = WebDriverWait(driver, 10)
+# wait = WebDriverWait(driver, 10)
 # driver.get("https://www.lazada.com.my/products/honor-magicbook-x15-i3-2021-space-grey-8gb-ram-256gb-original-1-year-warranty-by-honor-malaysia-i2608649455-s11730638464.html?mp=1&freeshipping=1")
 # time.sleep(10)
 
