@@ -1,0 +1,761 @@
+,brand,PSmodelName,PSproductKey,category
+0,HONOR,HONOR View 20 (8+128GB),honor-view-20-8-128gb,Mobile
+1,HONOR,HONOR 9X Lite (4 + 128GB),honor-9x-lite-4-128gb,Mobile
+2,HONOR,HONOR 9X (6 + 128GB),honor-9x-6-128gb,Mobile
+3,HONOR,HONOR 8X Max (4+128GB),honor-8x-max-4-plus-128gb,Mobile
+4,HONOR,HONOR 8S (3+64GB),honor-8s-3-64gb,Mobile
+5,HONOR,HONOR 8S (2+32GB),honor-8s-2-plus-32gb,Mobile
+6,HONOR,HONOR 8A (3 + 64GB),honor-8a-3-64gb,Mobile
+7,HONOR,HONOR 9S (2+32GB),honor-9s-2-32gb,Mobile
+8,HONOR,HONOR 9A (3+64GB),honor-9a-3-64gb,Mobile
+9,HONOR,HONOR 50 (6+128GB),honor-50-6-plus-128gb,Mobile
+10,HONOR,HONOR 50 (8+256GB),honor-50-8-plus-256gb,Mobile
+11,HONOR,HONOR 50 (12+256GB),honor-50-12-plus-256gb,Mobile
+12,HONOR,HONOR 50 SE (8+128GB),honor-50-se-8-plus-128gb,Mobile
+13,HONOR,HONOR 50 SE (8+256GB),honor-50-se-8-plus-256gb,Mobile
+14,HONOR,HONOR 50 Pro (8+256GB),honor-50-pro-8-plus-256gb,Mobile
+15,HONOR,HONOR 50 Pro (12+256GB),honor-50-pro-12-plus-256gb,Mobile
+16,HONOR,HONOR 8S Prime (3+64GB),honor-8s-prime-3-plus-64gb,Mobile
+17,HONOR,HONOR 8A (3+64GB),honor-8a-3-plus-64gb,Mobile
+18,HONOR,HONOR 7S (2+16GB),honor-7s-2-plus-16gb,Mobile
+19,HONOR,HONOR 10 Lite (3+64GB),honor-10-lite-3-plus-64gb,Mobile
+20,HONOR,HONOR 50 Lite (8+128GB),honor-50-lite-8-plus-128gb,Mobile
+21,HONOR,HONOR X8 (6+128GB),honor-x8-6-plus-128gb,Mobile
+22,HONOR,HONOR X7 (6+128GB),honor-x7-6-plus-128gb,Mobile
+23,HONOR,HONOR X9 (8+128GB),honor-x9-8-plus-128gb,Mobile
+24,HONOR,HONOR X9 (8+256GB),honor-x9-8-plus-256gb,Mobile
+25,HONOR,HONOR X9 5G (8+128GB),honor-x9-5g-8-plus-128gb,Mobile
+26,HONOR,HONOR X7 (4+128GB),honor-x7-4-plus-128gb,Mobile
+27,HONOR,HONOR Magic4 Pro (8+256GB),honor-magic4-pro-8-plus-256gb,Mobile
+28,HUAWEI,HUAWEI Y9s (6 + 128GB),huawei-y9s-6-plus-128gb,Mobile
+29,HUAWEI,HUAWEI Y7a (4 + 128 GB),huawei-y7a-4-plus-128-gb,Mobile
+30,HUAWEI,HUAWEI Y6p (4 + 64GB),huawei-y6p-4-plus-64gb,Mobile
+31,HUAWEI,HUAWEI P40 Pro (8+256GB),huawei-p40-pro-8plus256gb,Mobile
+32,HUAWEI,HUAWEI P40 (8+128GB),huawei-p40-8plus128gb,Mobile
+33,HUAWEI,HUAWEI P30 Pro (8 + 256GB),huawei-p30-pro-8-plus-256gb,Mobile
+34,HUAWEI,HUAWEI P30 (8 + 128GB),huawei-p30-8-plus-128gb,Mobile
+35,HUAWEI,HUAWEI P10 (4 + 64GB),huawei-p10-4-plus-64gb,Mobile
+36,HUAWEI,HUAWEI nova 7i (8+128GB),huawei-nova-7i-8-plus-128gb,Mobile
+37,HUAWEI,HUAWEI Nova 7 SE 5G (8 + 128GB),huawei-nova-7-se-5g-8-plus-128gb,Mobile
+38,HUAWEI,HUAWEI Nova 7 5G (8 + 256GB),huawei-nova-7-5g-8-plus-256gb,Mobile
+39,HUAWEI,HUAWEI Nova 5T (8 + 128GB),huawei-nova-5t-8-plus-128gb,Mobile
+40,HUAWEI,HUAWEI Nova 4e (6 + 128GB),huawei-nova-4e-6-plus-128gb,Mobile
+41,HUAWEI,HUAWEI Mate 40 Pro 5G (8+256GB),huawei-mate-40-pro-5g-8-plus-256gb,Mobile
+42,HUAWEI,HUAWEI Mate 40 5G (8 + 256GB),huawei-mate-40-5g-8-plus-256gb,Mobile
+43,HUAWEI,HUAWEI Mate 30 Pro 5G (8+256GB),huawei-mate-30-pro-5g-8-plus-256gb,Mobile
+44,HUAWEI,HUAWEI Mate 30 Pro (8+256GB),huawei-mate-30-pro-8-plus-256gb,Mobile
+45,HUAWEI,HUAWEI Mate 30 (8 + 128GB),huawei-mate-30-8-plus-128gb,Mobile
+46,HUAWEI,Huawei Y7p (4+64GB),huawei-y7p-4plus64gb,Mobile
+47,HUAWEI,HUAWEI Y5p (2+32GB),huawei-y5p-2-32gb,Mobile
+48,HUAWEI,HUAWEI Y5 (2+32GB),huawei-y5-2plus32gb,Mobile
+49,HUAWEI,HUAWEI Nova 8i (8+128GB),huawei-nova-8i-8plus128gb,Mobile
+50,HUAWEI,HUAWEI Y9 Prime (2019) (4+64GB),huawei-y9-prime-2019-4-plus-64gb,Mobile
+51,HUAWEI,HUAWEI Y9 Prime (2019) (4+128GB),huawei-y9-prime-2019-4-plus-128gb,Mobile
+52,HUAWEI,HUAWEI Nova 2i (4+64GB),huawei-nova-2i-4-plus-64gb,Mobile
+53,HUAWEI,HUAWEI nova 8 (8+128GB),huawei-nova-8-8-plus-128gb,Mobile
+54,HUAWEI,HUAWEI nova 8 (8+256GB),huawei-nova-8-8-plus-256gb,Mobile
+55,HUAWEI,HUAWEI nova 9 (8+128GB),huawei-nova-9-8-plus-128gb,Mobile
+56,HUAWEI,HUAWEI nova 9 Pro (8+128GB),huawei-nova-9-pro-8-plus-128gb,Mobile
+57,HUAWEI,HUAWEI nova 9 Pro (8+256GB),huawei-nova-9-pro-8-plus-256gb,Mobile
+58,HUAWEI,HUAWEI NOVA 2 LITE (3+32GB),huawei-nova-2-lite-3-plus-32gb,Mobile
+59,HUAWEI,HUAWEI nova 9 (8+256GB),huawei-nova-9-8-plus-256gb,Mobile
+60,HUAWEI,HUAWEI P50 Pocket (8+256GB),huawei-p50-pocket-8-plus-256gb,Mobile
+61,HUAWEI,HUAWEI P50 Pocket Premium Edition (12+512GB),huawei-p50-pocket-premium-edition-12-plus-512gb,Mobile
+62,HUAWEI,HUAWEI P50 Pro (8+256GB),huawei-p50-pro-8-plus-256gb,Mobile
+63,HUAWEI,Huawei Nova 9 SE (8+128GB),huawei-nova-9-se-8-plus-128gb,Mobile
+64,HUAWEI,Huawei Mate Xs 2 (8+512GB),huawei-mate-xs-2-8-plus-512gb,Mobile
+65,HUAWEI,Huawei Nova Y70 (4+128GB),huawei-nova-y70-4-plus-128gb,Mobile
+66,HUAWEI,Huawei P50 (8+256GB),huawei-p50-8-plus-256gb,Mobile
+67,HUAWEI,HUAWEI P40 Pro+ (8+512GB),huawei-p40-pro-plus-8-plus-512gb,Mobile
+68,INFINIX,Infinix Smart 5 (3 + 64GB),infinix-smart-5-3-plus-64gb,Mobile
+69,INFINIX,Infinix Note 8 (6+128GB),infinix-note-8-6plus128gb,Mobile
+70,INFINIX,Infinix Hot 10 (4+64GB),infinix-hot-10-4plus64gb,Mobile
+71,INFINIX,Infinix Hot 10 (6+128GB),infinix-hot-10-6plus128gb,Mobile
+72,INFINIX,Infinix Smart 5 (2+32GB),infinix-smart-5-2plus32gb,Mobile
+73,INFINIX,Infinix Hot 10s (4+64GB),infinix-hot-10s-4plus64gb,Mobile
+74,INFINIX,Infinix Hot 10s (4+128GB),infinix-hot-10s-4plus128gb,Mobile
+75,INFINIX,Infinix Hot 10 Play (4+64GB),infinix-hot-10-play-4-plus-64gb,Mobile
+76,INFINIX,Infinix Hot 10 Play (2+32GB),infinix-hot-10-play-2-plus-32gb,Mobile
+77,INFINIX,Infinix Hot 10s (6+128GB),infinix-hot-10s-6-plus-128gb,Mobile
+78,INFINIX,Infinix Hot 10s (6+64GB),infinix-hot-10s-6-plus-64gb,Mobile
+79,INFINIX,Infinix Zero X Neo (8+128GB),infinix-zero-x-neo-8-plus-128gb,Mobile
+80,INFINIX,Infinix Zero X Pro (8+128GB),infinix-zero-x-pro-8-plus-128gb,Mobile
+81,INFINIX,Infinix Zero X Pro (8+256GB),infinix-zero-x-pro-8-plus-256gb,Mobile
+82,INFINIX,Infinix Zero X (8+128GB),infinix-zero-x-8-plus-128gb,Mobile
+83,INFINIX,Infinix Note 10 Pro (6+128GB),infinix-note-10-pro-6-plus-128gb,Mobile
+84,INFINIX,Infinix Note 10 Pro (8+256GB),infinix-note-10-pro-8-plus-256gb,Mobile
+85,INFINIX,Infinix Zero 5G (8+128GB),infinix-zero-5g-8-plus-128gb,Mobile
+86,INFINIX,Infinix HOT 11 PLAY (4+64GB),infinix-hot-11-play-4-plus-64gb,Mobile
+87,INFINIX,Infinix HOT 11 PLAY (4+128GB),infinix-hot-11-play-4-plus-128gb,Mobile
+88,INFINIX,Infinix HOT 11 PLAY (3+32GB),infinix-hot-11-play-3-plus-32gb,Mobile
+89,INFINIX,Infinix Note 12 G88 (4+64GB),infinix-note-12-g88-4-plus-64gb,Mobile
+90,INFINIX,Infinix Note 12 G88 (4+128GB),infinix-note-12-g88-4-plus-128gb,Mobile
+91,INFINIX,Infinix Note 12 G88 (6+128GB),infinix-note-12-g88-6-plus-128gb,Mobile
+92,INFINIX,Infinix Note 12 G96 (8+256GB),infinix-note-12-g96-8-plus-256gb,Mobile
+93,INFINIX,Infinix Smart 6 (2+32GB),infinix-smart-6-2-plus-32gb,Mobile
+94,INFINIX,Infinix Smart 6 (3+64GB),infinix-smart-6-3-plus-64gb,Mobile
+95,INFINIX,Infinix Note 10 Pro (8+128GB),infinix-note-10-pro-8-plus-128gb,Mobile
+96,INFINIX,Infinix Note 12 G96 (8+128GB),infinix-note-12-g96-8-plus-128gb,Mobile
+97,NOKIA,Nokia C2,nokia-c2,Mobile
+98,NOKIA,Nokia 8.1 (4 + 64GB),nokia-8-1-4-plus-64gb,Mobile
+99,NOKIA,Nokia 6.1+ (4+64GB),nokia-6-1plus-4plus64gb,Mobile
+100,NOKIA,Nokia 5.4 (4 + 128GB),nokia-5-4-4-plus-128gb,Mobile
+101,NOKIA,Nokia 3.4 (3 + 64GB),nokia-3-4-3-plus-64gb,Mobile
+102,NOKIA,Nokia 3.2 (3 + 32GB),nokia-3-2-3-plus-32gb,Mobile
+103,NOKIA,Nokia 2.3,nokia-2-3,Mobile
+104,NOKIA,Nokia 105 (2019),nokia-105-2019,Mobile
+105,NOKIA,Nokia 110 (2019),nokia-110-2019,Mobile
+106,NOKIA,Nokia 150 (2020),nokia-150-2020,Mobile
+107,NOKIA,Nokia 210,nokia-210,Mobile
+108,NOKIA,Nokia 225,nokia-225,Mobile
+109,NOKIA,Nokia 1.4 (3 + 64GB),nokia-1-4-3-plus-64gb,Mobile
+110,NOKIA,Nokia C01 Plus (2+16GB),nokia-c01-plus-2-plus-16gb,Mobile
+111,NOKIA,Nokia C20 (1+16GB),nokia-c20-1-plus-16gb,Mobile
+112,NOKIA,Nokia C20 (2+16GB),nokia-c20-2-plus-16gb,Mobile
+113,NOKIA,Nokia C20 (2+32GB),nokia-c20-2-plus-32gb,Mobile
+114,NOKIA,Nokia X20 (6+128GB),nokia-x20-6-plus-128gb,Mobile
+115,NOKIA,Nokia X20 (8+128GB),nokia-x20-8-plus-128gb,Mobile
+116,NOKIA,Nokia 106 (2018),nokia-106-2018,Mobile
+117,NOKIA,Nokia 2.2 (3+32GB),nokia-2-2-3-plus-32gb,Mobile
+118,NOKIA,Nokia 6.1 (4+64GB),nokia-6-1-4-plus-64gb,Mobile
+119,NOKIA,Nokia 3.4 (3+32GB),nokia-3-4-3-plus-32gb,Mobile
+120,NOKIA,Nokia 5.3 (4 + 64GB),nokia-5-3-4-plus-64gb,Mobile
+121,NOKIA,Nokia 110 4G (48MB+128MB),nokia-110-4g-48mb128mb,Mobile
+122,NOKIA,Nokia G10 (4+64GB),nokia-g10-4-plus-64gb,Mobile
+123,NOKIA,Nokia 105 4G,nokia-105-4g,Mobile
+124,NOKIA,Nokia G21 (6+128GB),nokia-g21-6-plus-128gb,Mobile
+125,NOKIA,Nokia C21 (2+32GB),nokia-c21-2-plus-32gb,Mobile
+126,NOKIA,Nokia 6300 4G (512MB+4GB),nokia-6300-4g-512mb-plus-4gb,Mobile
+127,NOKIA,Nokia C21 Plus (3+32GB),nokia-c21-plus-3-plus-32gb,Mobile
+128,NOKIA,Nokia 3310 Dual SIM,nokia-3310-dual-sim,Mobile
+129,OPPO,OPPO Reno5 Pro 5G (8 + 128GB),oppo-reno5-pro-5g-8-plus-128gb,Mobile
+130,OPPO,OPPO Reno5 Pro 5G (12+256GB),oppo-reno5-pro-5g-12plus256gb,Mobile
+131,OPPO,OPPO Reno5 Pro + 5G (12 + 256GB),oppo-reno5-pro-plus-5g-12-plus-256gb,Mobile
+132,OPPO,OPPO Reno5 5G (8+128GB),oppo-reno5-5g-8-plus-128gb,Mobile
+133,OPPO,OPPO Reno4 Pro 5G (8 + 128GB),oppo-reno4-pro-5g-8-plus-128gb,Mobile
+134,OPPO,OPPO Reno4 Pro 5G (12 + 256GB),oppo-reno4-pro-5g-12-plus-256gb,Mobile
+135,OPPO,OPPO Reno4 5G (8 + 128GB),oppo-reno4-5g-8-plus-128gb,Mobile
+136,OPPO,OPPO Reno2 Z (8GB + 128GB),oppo-reno2-z-8gb-plus-128gb,Mobile
+137,OPPO,OPPO Reno 5 Pro + Plus Artist Limited Edition (12 + 256GB),oppo-reno-5-pro-plus-plus-artist-limited-edition-12-plus-256gb,Mobile
+138,OPPO,OPPO Reno 3 Pro 5G (8 + 128GB),oppo-reno-3-pro-5g-8-plus-128gb,Mobile
+139,OPPO,OPPO Reno 3 Pro 5G (12 + 256GB),oppo-reno-3-pro-5g-12-plus-256gb,Mobile
+140,OPPO,OPPO Reno 3 (8 + 128GB),oppo-reno-3-8-plus-128gb,Mobile
+141,OPPO,OPPO Reno 3 (12 + 128GB),oppo-reno-3-12-plus-128gb,Mobile
+142,OPPO,OPPO Reno 2 (8 + 256GB),oppo-reno-2-8-plus-256gb,Mobile
+143,OPPO,OPPO Reno 10X zoom tenfold version (8 + 256GB),oppo-reno-10x-zoom-tenfold-version-8-plus-256gb,Mobile
+144,OPPO,OPPO Reno (6+256GB),oppo-reno-6-plus-256gb,Mobile
+145,OPPO,OPPO R17 Pro (8 + 128GB),oppo-r17-pro-8-plus-128gb,Mobile
+146,OPPO,OPPO R11s (4 + 64GB),oppo-r11s-4-plus-64gb,Mobile
+147,OPPO,OPPO Find X2 Pro (12 + 512GB),oppo-find-x2-pro-12-plus-512gb,Mobile
+148,OPPO,OPPO A93 (8 + 128GB),oppo-a93-8-plus-128gb,Mobile
+149,OPPO,OPPO A9 2020 (8 + 128GB),oppo-a9-2020-8-plus-128gb,Mobile
+150,OPPO,OPPO A73,oppo-a73,Mobile
+151,OPPO,OPPO A32 (4 + 128GB),oppo-a32-4-plus-128gb,Mobile
+152,OPPO,OPPO A31 (6+128GB),oppo-a31-6-128gb,Mobile
+153,OPPO,OPPO A31 (4+128GB),oppo-a31-4plus128gb,Mobile
+154,OPPO,OPPO A31 (4+64GB),oppo-a31-4-plus-64gb,Mobile
+155,OPPO,OPPO A15 (3 + 32GB),oppo-a15-3-plus-32gb,Mobile
+156,OPPO,OPPO A73 (6 + 128GB),oppo-a73-6-plus-128gb,Mobile
+157,OPPO,OPPO Reno4 Pro (8 + 256GB),oppo-reno4-pro-8-plus-256gb,Mobile
+158,OPPO,OPPO A15s (4 + 64GB),oppo-a15s-4-plus-64gb,Mobile
+159,OPPO,OPPO Reno4 (8+128GB),oppo-reno4-8-plus-128gb,Mobile
+160,OPPO,OPPO Reno5 F (8+128GB),oppo-reno-5f-8plus128gb,Mobile
+161,OPPO,OPPO A54 (4+64GB),oppo-a54-4plus64gb,Mobile
+162,OPPO,OPPO A54 (4+128GB),oppo-a54-4plus128gb,Mobile
+163,OPPO,OPPO Find X3 Pro (12+256GB),oppo-find-x3-pro-12plus256gb,Mobile
+164,OPPO,OPPO A74 (6+128GB),oppo-a74-6plus128gb,Mobile
+165,OPPO,OPPO A74 5G (6+128GB),oppo-a74-5g-6plus128gb,Mobile
+166,OPPO,OPPO A12e (3 + 64GB),oppo-a12e-3-64gb,Mobile
+167,OPPO,OPPO A92 (8 + 128GB),oppo-a92-8-128gb,Mobile
+168,OPPO,OPPO Reno3 Pro (8 + 256GB),oppo-reno3-pro-8-256gb,Mobile
+169,OPPO,OPPO A53 (4 + 64GB),oppo-a53-4-64gb,Mobile
+170,OPPO,OPPO A53 (4 + 128GB),oppo-a53-4-128gb,Mobile
+171,OPPO,OPPO F9 (6 + 64GB),oppo-f9-6-plus-64gb,Mobile
+172,OPPO,OPPO Find X2 (12+256GB),oppo-find-x2-12-256gb,Mobile
+173,OPPO,OPPO A12 (4+64GB),oppo-a12-4plus64gb,Mobile
+174,OPPO,OPPO A5s (3+32GB),oppo-a5s-3plus32gb,Mobile
+175,OPPO,OPPO A16 (4+64GB),oppo-a16-4-64gb,Mobile
+176,OPPO,OPPO A16 (3+32GB),oppo-a16-3-plus-32gb,Mobile
+177,OPPO,OPPO A16 (4+256GB),oppo-a16-4-plus-256gb,Mobile
+178,OPPO,OPPO Reno6 5G (8+128GB),oppo-reno6-5g-8-plus-128gb,Mobile
+179,OPPO,OPPO Reno6 Z 5G (8+128GB),oppo-reno6-z-8-128gb,Mobile
+180,OPPO,OPPO Reno6 Pro 5G (Snapdragon) (12+256GB),oppo-reno6-pro-5g-snapdragon-12-plus-256gb,Mobile
+181,OPPO,OPPO Reno 10x zoom (8+256GB) [FC Barcelona Edition],oppo-reno-10x-zoom-8-plus-256gb-fc-barcelona-edition,Mobile
+182,OPPO,OPPO Find X2 Pro (12+512GB) [Green Vegan Leather Edition],oppo-find-x2-pro-12-plus-512gb-green-vegan-leather-edition,Mobile
+183,OPPO,OPPO A95 (8+128GB),oppo-a95-8plus128gb,Mobile
+184,OPPO,OPPO A95 5G (8+128GB),oppo-a95-5g-8-plus-128gb,Mobile
+185,OPPO,OPPO A95 5G (8+256GB),oppo-a95-5g-8-plus-256gb,Mobile
+186,OPPO,OPPO A16k (3+32GB),oppo-a16k-3-plus-32gb,Mobile
+187,OPPO,OPPO A16k (4+64GB),oppo-a16k-4-plus-64gb,Mobile
+188,OPPO,OPPO Reno7 5G (8+256GB),oppo-reno7-5g-8-plus-256gb,Mobile
+189,OPPO,OPPO Reno7 Pro 5G (12+256GB),oppo-reno7-pro-5g-12-plus-256gb,Mobile
+190,OPPO,OPPO A76 (6+128GB),oppo-a76-6-plus-128gb,Mobile
+191,OPPO,Oppo Reno7 Z 5G (8+128GB),oppo-reno7-z-5g-8-plus-128gb,Mobile
+192,OPPO,Oppo A96 (8+128GB),oppo-a96-8-plus-128gb,Mobile
+193,OPPO,Oppo A96 (8+256GB),oppo-a96-8-plus-256gb,Mobile
+194,OPPO,OPPO A83 (4+32GB),oppo-a83-4-plus-32gb,Mobile
+195,OPPO,Oppo Find X5 Pro (12+256GB),oppo-find-x5-pro-12-plus-256gb,Mobile
+196,OPPO,Oppo A77 5G (6+128GB),oppo-a77-5g-6-plus-128gb,Mobile
+197,OPPO,Oppo A77 5G (4+64GB),oppo-a77-5g-4-plus-64gb,Mobile
+198,OPPO,Oppo A57 4G (4+64GB),oppo-a57-4g-4-plus-64gb,Mobile
+199,REALME,realme X7 Pro (8+256GB),realme-x7-pro-8-256gb,Mobile
+200,REALME,realme X7 Pro (8+128GB),realme-x7-pro-8-128gb,Mobile
+201,REALME,realme X50 Pro 5G (8+128GB),realme-x50-pro-5g-8-plus-128gb,Mobile
+202,REALME,realme X3 SuperZoom (8+128GB),realme-x3-superzoom-8-plus-128gb,Mobile
+203,REALME,realme X3 SuperZoom (12 + 256GB),realme-x3-superzoom-12-plus-256gb,Mobile
+204,REALME,realme C3,realme-c3,Mobile
+205,REALME,realme C17 (6+ 256GB),realme-c17-6plus-256gb,Mobile
+206,REALME,realme C15 (4 + 64GB),realme-c15-4-plus-64gb,Mobile
+207,REALME,realme C15 (4+128 GB),realme-c15-4-plus-128-gb,Mobile
+208,REALME,realme C11 (2 + 32GB),realme-c11-2-plus-32gb,Mobile
+209,REALME,realme 7i (8+128GB),realme-7i-8-128gb,Mobile
+210,REALME,realme 7 Pro (8 + 128GB),realme-7-pro-8-plus-128gb,Mobile
+211,REALME,realme 7 (8 + 128GB),realme-7-8-plus-128gb,Mobile
+212,REALME,realme 6i (4 + 128GB),realme-6i-4-plus-128gb,Mobile
+213,REALME,realme 6 Pro (8 + 128GB),realme-6-pro-8-plus-128gb,Mobile
+214,REALME,realme 6 (8 + 128GB),realme-6-8-plus-128gb,Mobile
+215,REALME,realme 6 (4 + 128GB),realme-6-4-plus-128gb,Mobile
+216,REALME,realme 5i (4 + 64GB),realme-5i-4-plus-64gb,Mobile
+217,REALME,realme C21 (3 + 32GB),realme-c21-3-plus-32gb,Mobile
+218,REALME,realme C12 (3+32GB),realme-c12-3plus32gb,Mobile
+219,REALME,realme 7 5G (8 + 128GB),realme-7-5g-8-plus-128gb,Mobile
+220,REALME,realme 8 Pro (8+128GB),realme-8-pro-8plus128gb,Mobile
+221,REALME,realme 8 5G (8+128GB),realme-8-5g-8-128gb,Mobile
+222,REALME,realme 7i (4 + 128GB),realme-7i-4-128gb,Mobile
+223,REALME,realme C21 (4+64GB),realme-c21-4-64gb,Mobile
+224,REALME,realme GT Master Edition (8+128GB),realme-gt-master-edition-8-plus-128gb,Mobile
+225,REALME,realme GT Master Edition (8+256GB),realme-gt-master-edition-8-plus-256gb,Mobile
+226,REALME,realme GT Master Edition (6+128GB),realme-gt-master-edition-6-plus-128gb,Mobile
+227,REALME,realme C21Y (4+64GB),realme-c21y-4-plus-64gb,Mobile
+228,REALME,realme C21Y (3+32GB),realme-c21y-3-plus-32gb,Mobile
+229,REALME,realme C25s (4+128GB),realme-c25s-4-plus-128gb,Mobile
+230,REALME,realme C25s (4+64GB),realme-c25s-4-plus-64gb,Mobile
+231,REALME,realme GT 5G (8+128GB),realme-gt-5g-8-plus-128gb,Mobile
+232,REALME,realme GT 5G (12+256GB),realme-gt-5g-12-plus-256gb,Mobile
+233,REALME,realme GT 5G (8+256GB),realme-gt-5g-8-plus-256gb,Mobile
+234,REALME,realme GT 5G (12+128GB),realme-gt-5g-12-plus-128gb,Mobile
+235,REALME,realme Narzo 20 (4+64GB),realme-narzo-20-4-plus-64gb,Mobile
+236,REALME,realme Narzo 20 (4+128GB),realme-narzo-20-4-plus-128gb,Mobile
+237,REALME,realme Narzo 30 (4+64GB),realme-narzo-30-4-plus-64gb,Mobile
+238,REALME,realme Narzo 30 (6+64GB),realme-narzo-30-6-plus-64gb,Mobile
+239,REALME,realme Narzo 30 (4+128GB),realme-narzo-30-4-plus-128gb,Mobile
+240,REALME,realme Narzo 30 (6+128GB),realme-narzo-30-6-plus-128gb,Mobile
+241,REALME,realme Narzo 30 5G (4+64GB),realme-narzo-30-5g-4-plus-64gb,Mobile
+242,REALME,realme Narzo 30 5G (4+128GB),realme-narzo-30-5g-4-plus-128gb,Mobile
+243,REALME,realme Narzo 30 5G (6+128GB),realme-narzo-30-5g-6-plus-128gb,Mobile
+244,REALME,realme Narzo 30 Pro 5G (6+64GB),realme-narzo-30-pro-5g-6-plus-64gb,Mobile
+245,REALME,realme Narzo 30 Pro 5G (8+128GB),realme-narzo-30-pro-5g-8-plus-128gb,Mobile
+246,REALME,realme Narzo 20 Pro (8+128GB),realme-narzo-20-pro-8-128gb,Mobile
+247,REALME,realme Narzo 20 Pro (6+64GB),realme-narzo-20-pro-6-plus-64gb,Mobile
+248,REALME,realme narzo 30A (4+64GB),realme-narzo-30a-4plus64gb,Mobile
+249,REALME,realme Narzo 30A (3+32GB),realme-narzo-30a-3-plus-32gb,Mobile
+250,REALME,realme GT Neo 2 (12+256GB),realme-gt-neo-2-12-plus-256gb,Mobile
+251,REALME,realme narzo 50i (4+64GB),realme-narzo-50i-4-plus-64gb,Mobile
+252,REALME,realme 9i (4+128GB),realme-9i-4-plus-128gb,Mobile
+253,REALME,realme 9i (6+128GB),realme-9i-6-plus-128gb,Mobile
+254,REALME,realme C25Y (4+64GB),realme-c25y-4-plus-64gb,Mobile
+255,REALME,realme C25Y (4+128GB),realme-c25y-4-plus-128gb,Mobile
+256,REALME,realme narzo 50i (2+32GB),realme-narzo-50i-2-plus-32gb,Mobile
+257,REALME,realme C35 (4+64GB),realme-c35-4-plus-64gb,Mobile
+258,REALME,realme C35 (4+128GB),realme-c35-4-plus-128gb,Mobile
+259,REALME,Realme 9 Pro (6+128GB),realme-9-pro-6-plus-128gb,Mobile
+260,REALME,Realme 9 Pro (8+128GB),realme-9-pro-8-plus-128gb,Mobile
+261,REALME,Realme 9 Pro+ (6+128GB),realme-9-pro-plus-6-plus-128gb,Mobile
+262,REALME,Realme 9 Pro+ (8+128GB),realme-9-pro-plus-8-plus-128gb,Mobile
+263,REALME,Realme 9 Pro+ (8+256GB),realme-9-pro-plus-8-plus-256gb,Mobile
+264,REALME,Realme C11 (2021) (2+32GB),realme-c11-2021-2-plus-32gb,Mobile
+265,REALME,Realme C11 (2021) (4+64GB),realme-c11-2021-4-plus-64gb,Mobile
+266,REALME,realme C3 (3+32GB),realme-c3-3-plus-32gb,Mobile
+267,REALME,Realme GT2 Pro (8+128GB),realme-gt2-pro-8-plus-128gb,Mobile
+268,REALME,Realme GT2 Pro (8+256GB),realme-gt2-pro-8-plus-256gb,Mobile
+269,REALME,Realme GT2 Pro (12+256GB),realme-gt2-pro-12-plus-256gb,Mobile
+270,REALME,Realme GT2 Pro (12+512GB),realme-gt2-pro-12-plus-512gb,Mobile
+271,REALME,Realme Narzo 50 (4+64GB),realme-narzo-50-4-plus-64gb,Mobile
+272,REALME,Realme Narzo 50 (6+128GB),realme-narzo-50-6-plus-128gb,Mobile
+273,REALME,Realme Narzo 50A Prime (4+64GB),realme-narzo-50a-prime-4-plus-64gb,Mobile
+274,REALME,Realme Narzo 50A Prime (4+128GB),realme-narzo-50a-prime-4-plus-128gb,Mobile
+275,REALME,Realme 9 (6+128GB),realme-9-6-plus-128gb,Mobile
+276,REALME,Realme 9 (8+128GB),realme-9-8-plus-128gb,Mobile
+277,REALME,realme C11(4+64GB),realme-c114-plus-64gb,Mobile
+278,REALME,Realme 9 5G (6+128GB),realme-9-5g-6-plus-128gb,Mobile
+279,REALME,Realme 9 5G (4+64GB),realme-9-5g-4-plus-64gb,Mobile
+280,REALME,Realme Narzo 50 5G (4+64GB),realme-narzo-50-5g-4-plus-64gb,Mobile
+281,REALME,Realme Narzo 50 5G (4+128GB),realme-narzo-50-5g-4-plus-128gb,Mobile
+282,REALME,Realme Narzo 50 5G (6+128GB),realme-narzo-50-5g-6-plus-128gb,Mobile
+283,REALME,Realme Narzo 50 Pro 5G (6+128GB),realme-narzo-50-pro-5g-6-plus-128gb,Mobile
+284,REALME,Realme Narzo 50 Pro 5G (8+128GB),realme-narzo-50-pro-5g-8-plus-128gb,Mobile
+285,REALME,Realme GT Neo 3 (6+128GB),realme-gt-neo-3-6-plus-128gb,Mobile
+286,REALME,Realme GT Neo 3 (8+128GB),realme-gt-neo-3-8-plus-128gb,Mobile
+287,REALME,Realme GT Neo 3 (8+256GB),realme-gt-neo-3-8-plus-256gb,Mobile
+288,REALME,Realme GT Neo 3 (12+256GB),realme-gt-neo-3-12-plus-256gb,Mobile
+289,REALME,Realme Narzo 50A (4+128GB),realme-narzo-50a-4-plus-128gb,Mobile
+290,SAMSUNG,Samsung Galaxy Z Fold2 5G (12 + 512GB),samsung-galaxy-z-fold2-5g-12-plus-512gb,Mobile
+291,SAMSUNG,Samsung Galaxy Z Fold2 5G (12 + 256GB),samsung-galaxy-z-fold2-5g-12-plus-256gb,Mobile
+292,SAMSUNG,Samsung Galaxy Z Flip (8 + 256GB),samsung-galaxy-z-flip-8-plus-256gb,Mobile
+293,SAMSUNG,Samsung Galaxy S9 + 128GB,samsung-galaxy-s9-plus-128gb,Mobile
+294,SAMSUNG,Samsung Galaxy S9 (4 + 64GB),samsung-galaxy-s9-4-plus-64gb,Mobile
+295,SAMSUNG,Samsung Galaxy S8 + (4 + 64GB),samsung-galaxy-s8-plus-4-plus-64gb,Mobile
+296,SAMSUNG,Samsung Galaxy S21 Ultra 5G (16+512GB),samsung-galaxy-s21-ultra-5g-16-plus-512gb,Mobile
+297,SAMSUNG,Samsung Galaxy S21 Ultra 5G (12 + 256GB),samsung-galaxy-s21-ultra-5g-12-plus-256gb,Mobile
+298,SAMSUNG,Samsung Galaxy S21 Ultra 5G (12 + 128GB),samsung-galaxy-s21-ultra-5g-12-plus-128gb,Mobile
+299,SAMSUNG,Samsung Galaxy S21 5G (8+256GB),samsung-galaxy-s21-5g-8-plus-256gb,Mobile
+300,SAMSUNG,Samsung Galaxy S21 5G (8+128GB),samsung-galaxy-s21-5g-8-plus-128gb,Mobile
+301,SAMSUNG,Samsung Galaxy S21+ 5G (8+256GB),samsung-galaxy-s21-plus-5g-8-plus-256gb,Mobile
+302,SAMSUNG,Samsung Galaxy S21+ 5G (8 + 128GB),samsung-galaxy-s21-plus-5g-8-plus-128gb,Mobile
+303,SAMSUNG,Samsung Galaxy S20 Ultra 5G (12 + 128GB),samsung-galaxy-s20-ultra-5g-12-plus-128gb,Mobile
+304,SAMSUNG,Samsung Galaxy S20 Ultra (12 + 128GB),samsung-galaxy-s20-ultra-12-plus-128gb,Mobile
+305,SAMSUNG,Samsung Galaxy S20 FE 5G (8+256GB),samsung-galaxy-s20-fe-5g-8-plus-256gb,Mobile
+306,SAMSUNG,Samsung Galaxy S20 FE 5G (8 + 128GB),samsung-galaxy-s20-fe-5g-8-plus-128gb,Mobile
+307,SAMSUNG,Samsung Galaxy S20 FE 4G (8 + 128GB),samsung-galaxy-s20-fe-4g-8-plus-128gb,Mobile
+308,SAMSUNG,Samsung Galaxy S20 + (8 + 128GB),samsung-galaxy-s20-plus-8-plus-128gb,Mobile
+309,SAMSUNG,Samsung Galaxy S20 (8 + 128GB),samsung-galaxy-s20-8-plus-128gb,Mobile
+310,SAMSUNG,Samsung Galaxy S10 Lite (8 + 128GB),samsung-galaxy-s10-lite-8-plus-128gb,Mobile
+311,SAMSUNG,Samsung Galaxy S10 + (8 + 128GB),samsung-galaxy-s10-plus-8-plus-128gb,Mobile
+312,SAMSUNG,Samsung Galaxy S10+ (12GB+1TB),samsung-galaxy-s10plus-12gbplus1tb,Mobile
+313,SAMSUNG,Samsung Galaxy S10 (8 + 128GB),samsung-galaxy-s10-8-plus-128gb,Mobile
+314,SAMSUNG,Samsung Galaxy Note20 Ultra 5G (12 + 512GB),samsung-galaxy-note20-ultra-5g-12-plus-512gb,Mobile
+315,SAMSUNG,Samsung Galaxy Note20 Ultra 5G (12+256GB),samsung-galaxy-note20-ultra-5g-12-plus-256gb,Mobile
+316,SAMSUNG,Samsung Galaxy Note20 5G (8 + 256GB),samsung-galaxy-note20-5g-8-plus-256gb,Mobile
+317,SAMSUNG,Samsung Galaxy Note20 5G (8 + 128GB),samsung-galaxy-note20-5g-8-plus-128gb,Mobile
+318,SAMSUNG,Samsung Galaxy Note20 4G (8 + 256GB),samsung-galaxy-note20-4g-8-plus-256gb,Mobile
+319,SAMSUNG,Samsung Galaxy Note10 Lite (8 + 128GB),samsung-galaxy-note10-lite-8-plus-128gb,Mobile
+320,SAMSUNG,Samsung Galaxy Note10 + (12 + 256GB),samsung-galaxy-note10-plus-12-plus-256gb,Mobile
+321,SAMSUNG,Samsung Galaxy Note10 (8 + 256GB),samsung-galaxy-note10-8-plus-256gb,Mobile
+322,SAMSUNG,Samsung Galaxy Note 9 (8 + 512GB),samsung-galaxy-note-9-8-plus-512gb,Mobile
+323,SAMSUNG,Samsung Galaxy Note 9 (6 + 128GB),samsung-galaxy-note-9-6-plus-128gb,Mobile
+324,SAMSUNG,Samsung Galaxy Note8 (6+64GB),samsung-galaxy-note8-6-plus-64gb,Mobile
+325,SAMSUNG,Samsung Galaxy Note8 (6+256GB),samsung-galaxy-note8-6-plus-256gb,Mobile
+326,SAMSUNG,Samsung Galaxy Note8 (6+128GB),samsung-galaxy-note8-6-plus-128gb,Mobile
+327,SAMSUNG,Samsung Galaxy J8 (3+32GB),samsung-galaxy-j8-3plus32gb,Mobile
+328,SAMSUNG,Samsung Galaxy J7 Pro (3+32GB),samsung-galaxy-j7-pro-3plus32gb,Mobile
+329,SAMSUNG,Samsung Galaxy J6 + (J610) (4 + 64GB),samsung-galaxy-j6-plus-j610-4-plus-64gb,Mobile
+330,SAMSUNG,Samsung Galaxy J6 + (J610) (3 + 32GB),samsung-galaxy-j6-plus-j610-3-plus-32gb,Mobile
+331,SAMSUNG,Samsung Galaxy J5 Pro J530,samsung-galaxy-j5-pro-j530,Mobile
+332,SAMSUNG,Samsung Galaxy J5 (2017),samsung-galaxy-j5-2017,Mobile
+333,SAMSUNG,Samsung Galaxy Fold (12 + 512GB),samsung-galaxy-fold-12-plus-512gb,Mobile
+334,SAMSUNG,Samsung Galaxy A9 2018 (6 + 128GB),samsung-galaxy-a9-2018-6-plus-128gb,Mobile
+335,SAMSUNG,Samsung Galaxy A80 (8 + 128GB),samsung-galaxy-a80-8-plus-128gb,Mobile
+336,SAMSUNG,Samsung Galaxy A8 + (2018) (6 + 64GB),samsung-galaxy-a8-plus-2018-6-plus-64gb,Mobile
+337,SAMSUNG,Samsung Galaxy A71 (8 + 128GB),samsung-galaxy-a71-8-plus-128gb,Mobile
+338,SAMSUNG,Samsung Galaxy A70 (8 + 128GB),samsung-galaxy-a70-8-plus-128gb,Mobile
+339,SAMSUNG,Samsung Galaxy A51 (8 + 128GB),samsung-galaxy-a51-8-plus-128gb,Mobile
+340,SAMSUNG,Samsung Galaxy A50s (6 + 128GB),samsung-galaxy-a50s-6-plus-128gb,Mobile
+341,SAMSUNG,Samsung Galaxy A5 (2017),samsung-galaxy-a5-2017,Mobile
+342,SAMSUNG,Samsung Galaxy A42 5G (8 + 128GB),samsung-galaxy-a42-5g-8-plus-128gb,Mobile
+343,SAMSUNG,Samsung Galaxy A31 (6 + 128GB),samsung-galaxy-a31-6-plus-128gb,Mobile
+344,SAMSUNG,Samsung Galaxy A31 (4+128GB),samsung-galaxy-a31-4-128gb,Mobile
+345,SAMSUNG,Samsung Galaxy A30s (4 + 64GB),samsung-galaxy-a30s-4-plus-64gb,Mobile
+346,SAMSUNG,Samsung Galaxy A30s (4 + 128GB),samsung-galaxy-a30s-4-plus-128gb,Mobile
+347,SAMSUNG,Samsung Galaxy A21s (6 + 64GB),samsung-galaxy-a21s-6-plus-64gb,Mobile
+348,SAMSUNG,Samsung Galaxy A20s (3 + 32GB),samsung-galaxy-a20s-3-plus-32gb,Mobile
+349,SAMSUNG,Samsung Galaxy A12 (4 + 64GB),samsung-galaxy-a12-4-plus-64gb,Mobile
+350,SAMSUNG,Samsung Galaxy A12 (4 + 128GB),samsung-galaxy-a12-4-plus-128gb,Mobile
+351,SAMSUNG,Samsung Galaxy A11 (3 + 32GB),samsung-galaxy-a11-3-plus-32gb,Mobile
+352,SAMSUNG,Samsung Galaxy A10s (2 + 32GB),samsung-galaxy-a10s-2-plus-32gb,Mobile
+353,SAMSUNG,Samsung Galaxy A01 Core (1 + 16GB),samsung-galaxy-a01-core-1-plus-16gb,Mobile
+354,SAMSUNG,Samsung Galaxy A01 (2 + 16GB),samsung-galaxy-a01-2-plus-16gb,Mobile
+355,SAMSUNG,Samsung Galaxy A32 5G (6+128GB),samsung-galaxy-a32-5g-6plus128gb,Mobile
+356,SAMSUNG,Samsung Galaxy A02 (3+32GB),samsung-galaxy-a02-3-plus-32gb,Mobile
+357,SAMSUNG,Samsung Galaxy A72 (8+256GB),samsung-galaxy-a72-8-plus-256gb,Mobile
+358,SAMSUNG,Samsung Galaxy A52 (8+256GB),samsung-galaxy-a52-8-plus-256gb,Mobile
+359,SAMSUNG,Samsung Galaxy A32 5G (8+128GB),samsung-galaxy-a32-5g-8plus-128gb,Mobile
+360,SAMSUNG,Samsung Galaxy A32 (8+128GB),samsung-galaxy-a32-8-plus-128gb,Mobile
+361,SAMSUNG,Samsung Galaxy A51 (8+256GB),samsung-galaxy-a51-8plus256gb,Mobile
+362,SAMSUNG,Samsung Galaxy A02s (4+64GB),samsung-galaxy-a02s-4-64gb,Mobile
+363,SAMSUNG,Samsung Galaxy A12 (6+128GB),samsung-galaxy-a12-6-plus-128gb,Mobile
+364,SAMSUNG,Samsung Galaxy A52 5G (8+256GB),samsung-galaxy-a52-5g-8plus256gb,Mobile
+365,SAMSUNG,Samsung S20 FE LTE (8+128GB),samsung-s20-fe-lte-8plus128gb,Mobile
+366,SAMSUNG,Samsung Galaxy A72 5G (6 + 128GB),samsung-galaxy-a72-5g-6-128gb,Mobile
+367,SAMSUNG,Samsung Galaxy S20 FE 4G (8 + 256GB),samsung-galaxy-s20-fe-4g-8-plus-256gb,Mobile
+368,SAMSUNG,Samsung Galaxy A22 5G (8+128GB),samsung-galaxy-a22-5g-8plus128gb,Mobile
+369,SAMSUNG,Samsung Galaxy A22 5G (6+128GB),samsung-galaxy-a22-5g-6-128gb,Mobile
+370,SAMSUNG,Samsung Galaxy A22 (6+128GB),samsung-galaxy-a22-6plus128gb,Mobile
+371,SAMSUNG,Samsung Galaxy A6 (3+32),samsung-galaxy-a6-3plus32,Mobile
+372,SAMSUNG,Samsung Galaxy A8 (2018) (4+32GB),samsung-galaxy-a8-2018-4plus32gb,Mobile
+373,SAMSUNG,Samsung Galaxy J5 Pro (3+32GB),samsung-galaxy-j5-pro-3plus32gb,Mobile
+374,SAMSUNG,Samsung Galaxy J6 (3+32GB),samsung-galaxy-j6-3plus32gb,Mobile
+375,SAMSUNG,Samsung Galaxy S8 (4+64GB),samsung-galaxy-s8-4plus64gb,Mobile
+376,SAMSUNG,Samsung Galaxy J7+ (4+32GB),samsung-galaxy-j7plus-4plus32gb,Mobile
+377,SAMSUNG,Samsung Galaxy M02 (2+32GB),samsung-galaxy-m02-2plus32gb,Mobile
+378,SAMSUNG,Samsung Galaxy Note20 Ultra (12+256GB),samsung-galaxy-note20-ultra-12plus256gb,Mobile
+379,SAMSUNG,Samsung Galaxy Z Flip3 5G (8+128GB),samsung-galaxy-z-flip3-5g-8-128gb,Mobile
+380,SAMSUNG,Samsung Galaxy Z Flip3 5G (8+256GB),samsung-galaxy-z-flip3-5g-8-256gb,Mobile
+381,SAMSUNG,Samsung Galaxy Z Fold3 5G (12+256GB),samsung-galaxy-z-fold3-5g-12-256gb,Mobile
+382,SAMSUNG,Samsung Galaxy Z Fold3 5G (12+512GB),samsung-galaxy-z-fold3-5g-12-512gb,Mobile
+383,SAMSUNG,Samsung Galaxy M32 (8+128GB),samsung-galaxy-m32-8-128gb,Mobile
+384,SAMSUNG,Samsung Galaxy Note20 5G (12+256GB),samsung-galaxy-note20-5g-12-plus-256gb,Mobile
+385,SAMSUNG,Samsung Galaxy A12 Nacho (6+128GB),samsung-galaxy-a12-nacho-6-plus-128gb,Mobile
+386,SAMSUNG,Samsung Galaxy A03s (4+64GB),samsung-galaxy-a03s-4-plus-64gb,Mobile
+387,SAMSUNG,Samsung Galaxy A7 (2017) (3+32GB),samsung-galaxy-a7-2017-3-plus-32gb,Mobile
+388,SAMSUNG,Samsung Galaxy A7 (2018) (4+64GB),samsung-galaxy-a7-2018-4-64gb,Mobile
+389,SAMSUNG,Samsung Galaxy A7 (2018) (4+128GB),samsung-galaxy-a7-2018-4-plus-128gb,Mobile
+390,SAMSUNG,Samsung Galaxy A7 (2018) (6+128GB),samsung-galaxy-a7-2018-6-plus-128gb,Mobile
+391,SAMSUNG,Samsung Galaxy A52s 5G (8GB+128GB),samsung-galaxy-a52s-5g-8gb-plus-128gb,Mobile
+392,SAMSUNG,Samsung Galaxy A52s 5G (6GB+128GB),samsung-galaxy-a52s-5g-6gb-plus-128gb,Mobile
+393,SAMSUNG,Samsung Galaxy A52s 5G (6GB+256GB),samsung-galaxy-a52s-5g-6gb-plus-256gb,Mobile
+394,SAMSUNG,Samsung Galaxy A52s 5G (8GB+256GB),samsung-galaxy-a52s-5g-8gb-plus-256gb,Mobile
+395,SAMSUNG,Samsung Galaxy S20+ (8+128GB) [BTS Edition],samsung-galaxy-s20-8-plus-128gb-bts-edition,Mobile
+396,SAMSUNG,Samsung Galaxy A02 (6+128GB),samsung-galaxy-a02-6-plus-128gb,Mobile
+397,SAMSUNG,Samsung Galaxy S21 FE 5G (8+256GB),samsung-galaxy-s21-fe-5g-8-plus-256gb,Mobile
+398,SAMSUNG,Samsung Galaxy S21 FE 5G (8+128GB),samsung-galaxy-s21-fe-5g-8-plus-128gb,Mobile
+399,SAMSUNG,Samsung Galaxy M52 5G (8+128GB),samsung-galaxy-m52-5g-8-plus-128gb,Mobile
+400,SAMSUNG,Samsung Galaxy A03 (3+32GB),samsung-galaxy-a03-3-plus-32gb,Mobile
+401,SAMSUNG,Samsung Galaxy A03 (4+64GB),samsung-galaxy-a03-4-plus-64gb,Mobile
+402,SAMSUNG,Samsung Galaxy M22 (6+128GB),samsung-galaxy-m22-6-plus-128gb,Mobile
+403,SAMSUNG,Samsung Galaxy M12 (4+64GB),samsung-galaxy-m12-4-plus-64gb,Mobile
+404,SAMSUNG,Samsung Galaxy S22 (8+128GB),samsung-galaxy-s22-8-plus-128gb,Mobile
+405,SAMSUNG,Samsung Galaxy S22 (8+256GB),samsung-galaxy-s22-8-plus-256gb,Mobile
+406,SAMSUNG,Samsung Galaxy S22+ (8+128GB),samsung-galaxy-s22plus-8-plus-128gb,Mobile
+407,SAMSUNG,Samsung Galaxy S22+ (8+256GB),samsung-galaxy-s22plus-8-plus-256gb,Mobile
+408,SAMSUNG,Samsung Galaxy S22 Ultra (8+128GB),samsung-galaxy-s22-ultra-8-plus-128gb,Mobile
+409,SAMSUNG,Samsung Galaxy S22 Ultra (12+256GB),samsung-galaxy-s22-ultra-12-plus-256gb,Mobile
+410,SAMSUNG,Samsung Galaxy S22 Ultra (12+512GB),samsung-galaxy-s22-ultra-12-plus-512gb,Mobile
+411,SAMSUNG,Samsung Galaxy A53 5G (6+128GB),samsung-galaxy-a53-5g-6-plus-128gb,Mobile
+412,SAMSUNG,Samsung Galaxy A53 5G (8+128GB),samsung-galaxy-a53-5g-8-plus-128gb,Mobile
+413,SAMSUNG,Samsung Galaxy A53 5G (8+256GB),samsung-galaxy-a53-5g-8-plus-256gb,Mobile
+414,SAMSUNG,Samsung Galaxy A33 5G (6+128GB),samsung-galaxy-a33-5g-6-plus-128gb,Mobile
+415,SAMSUNG,Samsung Galaxy A33 5G (8+128GB),samsung-galaxy-a33-5g-8-plus-128gb,Mobile
+416,SAMSUNG,Samsung Galaxy A33 5G (8+256GB),samsung-galaxy-a33-5g-8-plus-256gb,Mobile
+417,SAMSUNG,Samsung Galaxy A73 5G (6+128GB),samsung-galaxy-a73-5g-6-plus-128gb,Mobile
+418,SAMSUNG,Samsung Galaxy A73 5G (8+128GB),samsung-galaxy-a73-5g-8-plus-128gb,Mobile
+419,SAMSUNG,Samsung Galaxy A73 5G (8+256GB),samsung-galaxy-a73-5g-8-plus-256gb,Mobile
+420,SAMSUNG,Samsung Galaxy A13 (6+128GB),samsung-galaxy-a13-6-plus-128gb,Mobile
+421,SAMSUNG,Samsung Galaxy A23 (6+128GB),samsung-galaxy-a23-6-plus-128gb,Mobile
+422,SAMSUNG,Samsung Galaxy M33 5G (8+128GB),samsung-galaxy-m33-5g-8-plus-128gb,Mobile
+423,SAMSUNG,"Samsung Galaxy A12 (6+128GB, Exynos 850)",samsung-galaxy-a12-6-plus-128gb-exynos-850,Mobile
+424,SAMSUNG,Samsung Galaxy M53 5G (8+256GB),samsung-galaxy-m53-5g-8-plus-256gb,Mobile
+425,VIVO,vivo Y50 (8 + 128GB),vivo-y50-8-plus-128gb,Mobile
+426,VIVO,vivo Y20s (4 + 128GB),vivo-y20s-4-plus-128gb,Mobile
+427,VIVO,vivo Y20 (4+64GB),vivo-y20-4-plus-64gb,Mobile
+428,VIVO,vivo Y19 (6 + 128GB),vivo-y19-6-plus-128gb,Mobile
+429,VIVO,vivo Y12s (3 + 32GB),vivo-y12s-3-plus-32gb,Mobile
+430,VIVO,vivo X60 Pro (12+256GB),vivo-x60-pro-12plus256gb,Mobile
+431,VIVO,vivo X50 Pro (8+256GB),vivo-x50-pro-8plus256gb,Mobile
+432,VIVO,vivo X50 Pro (8+128GB),vivo-x50-pro-8plus128gb,Mobile
+433,VIVO,vivo X50 Pro+ (12+256GB),vivo-x50-proplus-12plus256gb,Mobile
+434,VIVO,vivo X50 5G (8 + 128GB),vivo-x50-5g-8-plus-128gb,Mobile
+435,VIVO,vivo X50 (8 + 256GB),vivo-x50-8-plus-256gb,Mobile
+436,VIVO,vivo X50 (8 + 128GB),vivo-x50-8-plus-128gb,Mobile
+437,VIVO,vivo V20 SE (8+ 128GB),vivo-v20-se-8plus-128gb,Mobile
+438,VIVO,vivo V20 (8 + 128GB),vivo-v20-8-plus-128gb,Mobile
+439,VIVO,vivo V17 (8 + 128GB),vivo-v17-8-plus-128gb,Mobile
+440,VIVO,vivo S1 Pro Dual (8 + 128GB),vivo-s1-pro-dual-8-plus-128gb,Mobile
+441,VIVO,vivo NEX 3 5G (8 + 256GB),vivo-nex-3-5g-8-plus-256gb,Mobile
+442,VIVO,vivo V20 PRO (8 + 128GB),vivo-v20-pro-8-plus-128gb,Mobile
+443,VIVO,vivo Y31 (8 + 128GB),vivo-y31-8-plus-128gb,Mobile
+444,VIVO,vivo Y11 (3 + 32GB),vivo-y11-3-plus-32gb,Mobile
+445,VIVO,vivo V20 Pro 5G (8 + 128GB),vivo-v20-pro-5g-8-plus-128gb,Mobile
+446,VIVO,vivo Y30 (4 + 128GB),vivo-y30-4-plus-128gb,Mobile
+447,VIVO,vivo X60 (12+256GB),vivo-x60-12plus256gb,Mobile
+448,VIVO,vivo Y31 (12 + 256GB),vivo-y31-12-plus-256gb,Mobile
+449,VIVO,vivo Y20s (8+128 GB),vivo-y20s-8-plus-128-gb,Mobile
+450,VIVO,vivo V19 (8+128GB),vivo-v19-8plus128gb,Mobile
+451,VIVO,vivo V21e (8+128GB),vivo-v21e-8plus128gb,Mobile
+452,VIVO,vivo V21 (8+128GB),vivo-v21-8plus128gb,Mobile
+453,VIVO,vivo V21 5G (8+256GB),vivo-v21-5g-8plus256gb,Mobile
+454,VIVO,vivo Y12S (4+128GB),y12s-4128gb,Mobile
+455,VIVO,vivo Y20s [G] (6 + 128GB),vivo-y20s-g-6-128gb,Mobile
+456,VIVO,vivo Y20s [G] (4+128GB),vivo-y20s-g-4-plus-128gb,Mobile
+457,VIVO,vivo Y1s (2+32GB),vivo-y1s-2-32gb,Mobile
+458,VIVO,vivo Y20s (6 + 128GB),vivo-y20s-6-128gb,Mobile
+459,VIVO,vivo Y50 (6 + 128GB),vivo-y50-6-128gb,Mobile
+460,VIVO,vivo Y15 (4+64GB),vivo-y15-4-64gb,Mobile
+461,VIVO,vivo Y12A (3+32GB),vivo-y12a-3-32gb,Mobile
+462,VIVO,vivo Y33s (8+128GB),vivo-y33s-8-plus-128gb,Mobile
+463,VIVO,vivo X70 (8+128GB),vivo-x70-8-plus-128gb,Mobile
+464,VIVO,vivo X70 (8+256GB),vivo-x70-8-plus-256gb,Mobile
+465,VIVO,vivo X70 (12+256GB),vivo-x70-12-plus-256gb,Mobile
+466,VIVO,vivo X70 Pro (12+256GB),vivo-x70-pro-12-plus-256gb,Mobile
+467,VIVO,vivo X70 Pro (8+128GB),vivo-x70-pro-8-plus-128gb,Mobile
+468,VIVO,vivo X70 Pro (8+256GB),vivo-x70-pro-8-plus-256gb,Mobile
+469,VIVO,vivo X70 Pro (12+512GB),vivo-x70-pro-12-plus-512gb,Mobile
+470,VIVO,vivo X70 Pro (16+256GB),vivo-x70-pro-16-plus-256gb,Mobile
+471,VIVO,vivo Y76 5G (8+128GB),vivo-y76-5g-8-plus-128gb,Mobile
+472,VIVO,vivo Y76s (8+128GB),vivo-y76s-8-plus-128gb,Mobile
+473,VIVO,vivo Y76s (8+256GB),vivo-y76s-8-plus-256gb,Mobile
+474,VIVO,vivo S1 Pro (8+128GB),vivo-s1-pro-8-plus-128gb,Mobile
+475,VIVO,vivo S1 Pro (4+64GB),vivo-s1-pro-4-plus-64gb,Mobile
+476,VIVO,vivo Y21 (4+64GB),vivo-y21-4-plus-64gb,Mobile
+477,VIVO,vivo Y21 (4+128GB),vivo-y21-4-plus-128gb,Mobile
+478,VIVO,vivo Y21 (8+256GB),vivo-y21-8-plus-256gb,Mobile
+479,VIVO,vivo V7 PLUS (4+64GB),vivo-v7-plus-4-plus-64gb,Mobile
+480,VIVO,vivo Y53 (2+16GB),vivo-y53-2-plus-16gb,Mobile
+481,VIVO,vivo Y15s (3+32GB),vivo-y15s-3-plus-32gb,Mobile
+482,VIVO,vivo Y15a (4+64GB),vivo-y15a-4-plus-64gb,Mobile
+483,VIVO,vivo V23e (8+128GB),vivo-v23e-8-plus-128gb,Mobile
+484,VIVO,vivo V23e 5G (8+128GB),vivo-v23e-5g-8-plus-128gb,Mobile
+485,VIVO,vivo V23 5G (12+256GB),vivo-v23-5g-12-plus-256gb,Mobile
+486,VIVO,vivo V23 5G (8+128GB),vivo-v23-5g-8-plus-128gb,Mobile
+487,VIVO,vivo V21 5G (8+128GB),vivo-v21-5g-8-plus-128gb,Mobile
+488,VIVO,vivo Y75 5G (8+128GB),vivo-y75-5g-8-plus-128gb,Mobile
+489,VIVO,vivo Y81 (3+32GB),vivo-y81-3-plus-32gb,Mobile
+490,VIVO,vivo Y21T (6+128GB),vivo-y21t-6-plus-128gb,Mobile
+491,VIVO,Vivo Y33T (8+128GB),vivo-y33t-8-plus-128gb,Mobile
+492,VIVO,Vivo T1 5G (4+128GB),vivo-t1-5g-4-plus-128gb,Mobile
+493,VIVO,Vivo T1 5G (6+128GB),vivo-t1-5g-6-plus-128gb,Mobile
+494,VIVO,Vivo T1 5G (8+128GB),vivo-t1-5g-8-plus-128gb,Mobile
+495,VIVO,Vivo T1x (6+128GB),vivo-t1x-6-plus-128gb,Mobile
+496,VIVO,Vivo T1x (8+128GB),vivo-t1x-8-plus-128gb,Mobile
+497,VIVO,Vivo T1x (8+256GB),vivo-t1x-8-plus-256gb,Mobile
+498,VIVO,Vivo X80 Pro (8+256GB),vivo-x80-pro-8-plus-256gb,Mobile
+499,VIVO,Vivo X80 Pro (12+256GB),vivo-x80-pro-12-plus-256gb,Mobile
+500,VIVO,Vivo X80 Pro (8+128GB),vivo-x80-pro-8-plus-128gb,Mobile
+501,VIVO,vivo Y1s (3+32GB),vivo-y1s-3-plus-32gb,Mobile
+502,VIVO,Vivo T1x (4+64GB),vivo-t1x-4-plus-64gb,Mobile
+503,VIVO,Vivo X80 (12+256GB),vivo-x80-12-plus-256gb,Mobile
+504,VIVO,vivo X80 Pro (12+512GB),vivo-x80-pro-12-plus-512gb,Mobile
+505,VIVO,Vivo V11i (6+128GB),vivo-v11i-6-plus-128gb,Mobile
+506,XIAOMI,Xiaomi Redmi Note 9 (4 + 64GB),xiaomi-redmiredmi-note-9-4-plus-64gb,Mobile
+507,XIAOMI,Xiaomi Redmi Note 9 (3 + 64GB),xiaomi-redmi-note-9-3-64gb,Mobile
+508,XIAOMI,Xiaomi Xiaomi Redmi Note 8 Pro (8+256GB),xiaomi-redmi-note-8-pro-8-plus-256gb,Mobile
+509,XIAOMI,Xiaomi Xiaomi Redmi Note 8 Pro (6+64GB),xiaomi-redmi-note-8-pro-6-plus-64gb,Mobile
+510,XIAOMI,Xiaomi Xiaomi Redmi Note 8 Pro (6+128GB),xiaomi-redmi-note-8-pro-6-plus-128gb,Mobile
+511,XIAOMI,Xiaomi Redmi Note 8 (4 + 64GB),xiaomi-redmi-note-8-4-64gb,Mobile
+512,XIAOMI,Xiaomi Redmi 9C (4+128GB),xiaomi-redmi-9c-4-plus-128gb,Mobile
+513,XIAOMI,Xiaomi Redmi 9C (2+32GB),xiaomi-redmi-9c-2-32gb,Mobile
+514,XIAOMI,Xiaomi Redmi 9C (3+64GB),xiaomi-redmi-9c-3-plus-64gb,Mobile
+515,XIAOMI,Xiaomi Redmi 9 (4 + 64GB),xiaomi-redmi-9-4-64gb,Mobile
+516,XIAOMI,Xiaomi Redmi 9 (3 + 32GB),xiaomi-redmi-9-3-32gb,Mobile
+517,XIAOMI,Xiaomi Redmi Note 9S (6 + 128GB),xiaomi-redmi-note-9s-6-plus-128gb,Mobile
+518,XIAOMI,Xiaomi  Redmi Note 9 (4+128GB),xiaomi-redmi-note-9-4-plus-128gb,Mobile
+519,XIAOMI,Xiaomi Redmi Note 8 Pro (8+128GB),xiaomi-redmi-note-8-pro-8-plus-128gb,Mobile
+520,XIAOMI,Xiaomi Redmi 9T (6+128GB),xiaomi-redmi-9t-6-plus-128gb,Mobile
+521,XIAOMI,Xiaomi  Redmi 9A (6 + 64GB),xiaomi-redmi-9a-6-plus-64gb,Mobile
+522,XIAOMI,Xiaomi Redmi 9A (2+32GB),xiaomi-redmi-9a-2-plus-32gb,Mobile
+523,XIAOMI,Xiaomi Redmi 8A (2 + 32GB),xiaomi-redmi-8a-2-plus-32gb,Mobile
+524,XIAOMI,Xiaomi Redmi 8 (4 + 64GB),xiaomi-redmi-8-4-plus-64gb,Mobile
+525,XIAOMI,Xiaomi  Pocophone F2 Pro 5G (8 + 256GB),xiaomi-pocophone-f2-pro-5g-8-plus-256gb,Mobile
+526,XIAOMI,Xiaomi Pocophone F2 Pro 5G (6 + 128GB),xiaomi-pocophone-f2-pro-5g-6-plus-128gb,Mobile
+527,XIAOMI,Xiaomi Poco X3 NFC (6 + 64GB),xiaomi-poco-x3-nfc-6-plus-64gb,Mobile
+528,XIAOMI,Xiaomi  Poco X3 NFC (6 + 128GB),xiaomi-poco-x3-nfc-6-plus-128gb,Mobile
+529,XIAOMI,Xiaomi  POCO M3 (4 + 64GB),xiaomi-poco-m3-4-plus-64gb,Mobile
+530,XIAOMI,Xiaomi  POCO M3 (4 + 128GB),xiaomi-poco-m3-4-plus-128gb,Mobile
+531,XIAOMI,Xiaomi Mi Note 10 (6 + 128GB),xiaomi-mi-note-10-6-128gb,Mobile
+532,XIAOMI,Xiaomi  Mi 10T Pro 5G (8 + 256GB),xiaomi-mi-10t-pro-5g-8-plus-256gb,Mobile
+533,XIAOMI,Xiaomi Mi 10T Pro 5G (8 + 128GB),xiaomi-mi-10t-pro-5g-8-plus-128gb,Mobile
+534,XIAOMI,Xiaomi  Mi 10T 5G (8+128GB),xiaomi-mi-10t-5g-8-plus-128gb,Mobile
+535,XIAOMI,Xiaomi Mi 10T 5G (6 + 128GB),xiaomi-mi-10t-5g-6-plus-128gb,Mobile
+536,XIAOMI,Xiaomi M9T Smartphone International Version (6 + 64GB),xiaomi-m9t-smartphone-international-version-6-plus-64gb,Mobile
+537,XIAOMI,Xiaomi 9T Pro (6 + 64GB),xiaomi-9t-pro-6-plus-64gb,Mobile
+538,XIAOMI,Xiaomi 11 5G (8 + 256GB),xiaomi-11-5g-8-plus-256gb,Mobile
+539,XIAOMI,Xiaomi 11 5G (8 + 128GB),xiaomi-11-5g-8-plus-128gb,Mobile
+540,XIAOMI,Xiaomi  Mi 10 5G (8+256GB),xiaomi-mi-10-5g-8plus256gb,Mobile
+541,XIAOMI,Xiaomi Mi 10 5G (8+128GB),xiaomi-mi-10-5g-8plus128gb,Mobile
+542,XIAOMI,Xiaomi (MI) 9T (6 + 128gb),xiaomi-mi-9t-6-plus-128gb,Mobile
+543,XIAOMI,Xiaomi Redmi Note 9T 5G (4 + 128GB),xiaomi-redmi-note-9t-5g-4-plus-128gb,Mobile
+544,XIAOMI,Xiaomi Redmi Note 9 Pro (6 + 128GB),xiaomi-redmi-note-9-pro-6-plus-128gb,Mobile
+545,XIAOMI,Xiaomi Redmi 9T (4+64GB),xiaomi-redmi-9t-4-plus-64gb,Mobile
+546,XIAOMI,Xiaomi Redmi Note 10 Pro (6+128GB),xiaomi-redmi-note-10-pro-6-plus-128gb,Mobile
+547,XIAOMI,Xiaomi Redmi Note 10 Pro (8+128GB),xiaomi-redmi-note-10-pro-8-plus-128gb,Mobile
+548,XIAOMI,Xiaomi Redmi Note 10 (4 + 64GB),xiaomi-redmi-note-10-4-plus-64gb,Mobile
+549,XIAOMI,Xiaomi Mi 11 (8+128GB),mi-11-8-plus-128gb,Mobile
+550,XIAOMI,Xiaomi POCO F3 (6+128GB),xiaomi-poco-f3-6plus128gb,Mobile
+551,XIAOMI,Xiaomi POCO F3 (8+256GB),xiaomi-poco-f3-8plus256gb,Mobile
+552,XIAOMI,Xiaomi POCO X3 Pro (6+128GB),xiaomi-poco-x3-pro-6-plus-128gb,Mobile
+553,XIAOMI,Xiaomi POCO X3 Pro (8+256GB),xiaomi-poco-x3-pro-8-plus-256gb,Mobile
+554,XIAOMI,Xiaomi Poco X3 (6+64GB),xiaomi-poco-x3-6-plus-64gb,Mobile
+555,XIAOMI,Xiaomi Poco X3 (6+128GB),xiaomi-poco-x3-6-128gb,Mobile
+556,XIAOMI,Xiaomi Poco X3 (8+128GB),xiaomi-poco-x3-8-plus-128gb,Mobile
+557,XIAOMI,Xiaomi Mi 11 Ultra (12+256GB),xiaomi-mi-11-ultra-12plus256gb,Mobile
+558,XIAOMI,Xiaomi Mi 11 Lite 5G (8+256GB),xiaomi-mi-11-lite-5g-8-plus-256gb,Mobile
+559,XIAOMI,Xiaomi Mi 11 Lite 5G (8+128GB),xiaomi-mi-11-lite-5g-8plus128gb,Mobile
+560,XIAOMI,Xiaomi Mi 11 Lite 5G (6+128GB),xiaomi-mi-11-lite-5g-6plus128gb,Mobile
+561,XIAOMI,Xiaomi Redmi Note 10S (8+128GB),xiaomi-redmi-note-10s-8-128gb,Mobile
+562,XIAOMI,Xiaomi Poco M3 Pro 5G (4+64GB),xiaomi-poco-m3-pro-5g-4-64gb,Mobile
+563,XIAOMI,Xiaomi Poco M3 Pro 5G (6+128GB),xiaomi-poco-m3-pro-5g-6-128gb,Mobile
+564,XIAOMI,Xiaomi Redmi Note 10 5G (8+128GB),xiaomi-redmi-note-10-5g-8-128gb,Mobile
+565,XIAOMI,Xiaomi Mi 11i (8 + 128GB),xiaomi-mi-11i-8-128gb,Mobile
+566,XIAOMI,Xiaomi Redmi Note 10 (6+128GB),xiaomi-redmi-note-10-6-128gb,Mobile
+567,XIAOMI,Xiaomi Mi Note 10 Lite (8 + 128GB),xiaomi-mi-note-10-lite-8-128gb,Mobile
+568,XIAOMI,Xiaomi Mi 11 (8 + 256GB),xiaomi-mi-11-8-256gb,Mobile
+569,XIAOMI,Xiaomi Mi 11 Lite (8+128GB),xiaomi-mi-11-lite-8-128gb,Mobile
+570,XIAOMI,Xiaomi Redmi 9T (4+128GB),xiaomi-redmi-9t-4-128gb,Mobile
+571,XIAOMI,Xiaomi Mi Note 10 Lite (6+64GB),xiaomi-mi-note-10-lite-6plus64gb,Mobile
+572,XIAOMI,Xiaomi Redmi K40 (8+128GB),xiaomi-redmi-k40-8plus128gb,Mobile
+573,XIAOMI,Xiaomi Redmi K40 Pro (8+256GB),xiaomi-redmi-k40-pro-8plus256gb,Mobile
+574,XIAOMI,Xiaomi Mi 10 Ultra (8+128GB),xiaomi-mi-10-ultra-8plus128gb,Mobile
+575,XIAOMI,Xiaomi Mi 10 Ultra (12+256GB),xiaomi-mi-10-ultra-12plus256gb,Mobile
+576,XIAOMI,Xiaomi POCO X3 GT (8+256GB),xiaomi-poco-x3-gt-8-256gb,Mobile
+577,XIAOMI,Xiaomi POCO X3 GT (8+128GB),xiaomi-poco-x3-gt-8-128gb,Mobile
+578,XIAOMI,Xiaomi Redmi 10 (4+64GB),xiaomi-redmi-10-4-64gb,Mobile
+579,XIAOMI,Xiaomi Redmi 10 (6+128GB),xiaomi-redmi-10-6-128gb,Mobile
+580,XIAOMI,Xiaomi Redmi Note 8 Pro (4+64GB),xiaomi-redmi-note-8-pro-4-plus-64gb,Mobile
+581,XIAOMI,Xiaomi Redmi Note 8 Pro (4+128GB),xiaomi-redmi-note-8-pro-4-plus-128gb,Mobile
+582,XIAOMI,Xiaomi Poco X3 NFC (4+64GB),xiaomi-poco-x3-nfc-4-plus-64gb,Mobile
+583,XIAOMI,Xiaomi Poco X3 NFC (4+128GB),xiaomi-poco-x3-nfc-4-plus-128gb,Mobile
+584,XIAOMI,Xiaomi 11 Lite 5G NE (6+128GB),xiaomi-11-lite-5g-ne-6-plus-128gb,Mobile
+585,XIAOMI,Xiaomi 11 Lite 5G NE (8+128GB),xiaomi-11-lite-5g-ne-8-plus-128gb,Mobile
+586,XIAOMI,Xiaomi 11 Lite 5G NE (8+256GB),xiaomi-11-lite-5g-ne-8-plus-256gb,Mobile
+587,XIAOMI,Xiaomi 11T (8+128GB),xiaomi-11t-5g-8-plus-128gb,Mobile
+588,XIAOMI,Xiaomi 11T (8+256GB),xiaomi-11t-5g-8-plus-256gb,Mobile
+589,XIAOMI,Xiaomi 11T Pro (8+256GB),xiaomi-11t-pro-5g-8-plus-256gb,Mobile
+590,XIAOMI,Xiaomi 11T Pro (12+256GB),xiaomi-11t-pro-5g-12-plus-256gb,Mobile
+591,XIAOMI,Xiaomi POCO M4 Pro 5G (6+128GB),xiaomi-poco-m4-5g-6-plus-128gb,Mobile
+592,XIAOMI,Xiaomi POCO M4 Pro 5G (4+64GB),xiaomi-poco-m4-pro-5g-4-plus-64gb,Mobile
+593,XIAOMI,Xiaomi 11T Pro (8+128GB),xiaomi-11t-pro-8-plus-128gb,Mobile
+594,XIAOMI,Xiaomi Redmi Note 11 Pro 5G (6+64GB),xiaomi-redmi-note-11-pro-5g-6-plus-64gb,Mobile
+595,XIAOMI,Xiaomi Redmi Note 11 Pro 5G (6+128GB),xiaomi-redmi-note-11-pro-5g-6-plus-128gb,Mobile
+596,XIAOMI,Xiaomi Redmi Note 11 Pro 5G (8+128GB),xiaomi-redmi-note-11-pro-5g-8-plus-128gb,Mobile
+597,XIAOMI,Xiaomi Redmi Note 11 Pro (6+64GB),xiaomi-redmi-note-11-pro-6-plus-64gb,Mobile
+598,XIAOMI,Xiaomi Redmi Note 11 Pro (6+128GB),xiaomi-redmi-note-11-pro-6-plus-128gb,Mobile
+599,XIAOMI,Xiaomi Redmi Note 11 Pro (8+128GB),xiaomi-redmi-note-11-pro-8-plus-128gb,Mobile
+600,XIAOMI,Xiaomi Redmi Note 11 (4+64GB),xiaomi-redmi-note-11-4-plus-64gb,Mobile
+601,XIAOMI,Xiaomi Redmi Note 11 (4+128GB),xiaomi-redmi-note-11-4-plus-128gb,Mobile
+602,XIAOMI,Xiaomi Redmi Note 11 (6+128GB),xiaomi-redmi-note-11-6-plus-128gb,Mobile
+603,XIAOMI,Xiaomi Redmi Note 11S (6+64GB),xiaomi-redmi-note-11s-6-plus-64gb,Mobile
+604,XIAOMI,Xiaomi Redmi Note 11S (6+128GB),xiaomi-redmi-note-11s-6-plus-128gb,Mobile
+605,XIAOMI,Xiaomi Redmi Note 11S (8+128GB),xiaomi-redmi-note-11s-8-plus-128gb,Mobile
+606,XIAOMI,Xiaomi Redmi 9A (3+32GB),xiaomi-redmi-9a-3-plus-32gb,Mobile
+607,XIAOMI,Xiaomi Poco X4 Pro 5G (6+128GB),xiaomi-poco-x4-pro-5g-6-plus-128gb,Mobile
+608,XIAOMI,Xiaomi Poco X4 Pro 5G (8+256GB),xiaomi-poco-x4-pro-5g-8-plus-256gb,Mobile
+609,XIAOMI,Xiaomi Poco M4 Pro (6+128GB),xiaomi-poco-m4-pro-6-plus-128gb,Mobile
+610,XIAOMI,Xiaomi Poco M4 Pro (8+256GB),xiaomi-poco-m4-pro-8-plus-256gb,Mobile
+611,XIAOMI,Xiaomi 12 (8+128GB),xiaomi-12-8-plus-128gb,Mobile
+612,XIAOMI,Xiaomi 12 (8+256GB),xiaomi-12-8-plus-256gb,Mobile
+613,XIAOMI,Xiaomi 12 (12+256GB),xiaomi-12-12-plus-256gb,Mobile
+614,XIAOMI,Xiaomi 12 Pro (8+256GB),xiaomi-12-pro-8-plus-256gb,Mobile
+615,XIAOMI,Xiaomi 12 Pro (12+256GB),xiaomi-12-pro-12-plus-256gb,Mobile
+616,XIAOMI,Xiaomi Mi Play (4+64GB),xiaomi-mi-play-4-plus-64gb,Mobile
+617,XIAOMI,Xiaomi Redmi 10C (4+64GB),xiaomi-redmi-10c-4-plus-64gb,Mobile
+618,XIAOMI,Xiaomi Redmi 10C (4+128GB),xiaomi-redmi-10c-4-plus-128gb,Mobile
+619,XIAOMI,Xiaomi Redmi Note 10S (6+128GB),xiaomi-redmi-note-10s-6-plus-128gb,Mobile
+620,XIAOMI,Xiaomi Redmi Note 11 Pro+ 5G (6+128GB),xiaomi-redmi-note-11-pro-plus-5g-6-plus-128gb,Mobile
+621,XIAOMI,Xiaomi Redmi Note 11 Pro+ 5G (8+128GB),xiaomi-redmi-note-11-pro-plus-5g-8-plus-128gb,Mobile
+622,XIAOMI,Xiaomi Redmi Note 11 Pro+ 5G (8+256GB),xiaomi-redmi-note-11-pro-plus-5g-8-plus-256gb,Mobile
+623,XIAOMI,Xiaomi Poco F4 GT (8+128GB),xiaomi-poco-f4-gt-8-plus-128gb,Mobile
+624,XIAOMI,Xiaomi Poco F4 GT (12+128GB),xiaomi-poco-f4-gt-12-plus-128gb,Mobile
+625,XIAOMI,Xiaomi Poco F4 GT (12+256GB),xiaomi-poco-f4-gt-12-plus-256gb,Mobile
+626,XIAOMI,Xiaomi Redmi 10a (3+64GB),xiaomi-redmi-10a-3-plus-64gb,Mobile
+627,XIAOMI,Xiaomi Redmi 10 5G (4+64GB),xiaomi-redmi-10-5g-4-plus-64gb,Mobile
+628,XIAOMI,Xiaomi Redmi 10 5G (4+128GB),xiaomi-redmi-10-5g-4-plus-128gb,Mobile
+629,XIAOMI,Xiaomi Redmi 10 5G (6+128GB),xiaomi-redmi-10-5g-6-plus-128gb,Mobile
+630,XIAOMI,Xiaomi Redmi 10 2022 (4+64GB),xiaomi-redmi-10-2022-4-plus-64gb,Mobile
+631,XIAOMI,Xiaomi Redmi 10 2022 (4+128GB),xiaomi-redmi-10-2022-4-plus-128gb,Mobile
+632,XIAOMI,Xiaomi Redmi Note 11S 5G (4+64GB),xiaomi-redmi-note-11s-5g-4-plus-64gb,Mobile
+633,XIAOMI,Xiaomi Redmi Note 11S 5G (4+128GB),xiaomi-redmi-note-11s-5g-4-plus-128gb,Mobile
+634,XIAOMI,Xiaomi Redmi Note 11S 5G (6+128GB),xiaomi-redmi-note-11s-5g-6-plus-128gb,Mobile
+635,XIAOMI,Xiaomi Redmi 10a (4+128GB),xiaomi-redmi-10a-4-plus-128gb,Mobile
+636,XIAOMI,Xiaomi Redmi 10 Prime (2022) (4+64GB),xiaomi-redmi-10-prime-2022-4-plus-64gb,Mobile
+637,XIAOMI,Xiaomi Redmi 10 Prime (2022) (4+128GB),xiaomi-redmi-10-prime-2022-4-plus-128gb,Mobile
+638,XIAOMI,Xiaomi Redmi 10 Prime (2022) (6+128GB),xiaomi-redmi-10-prime-2022-6-plus-128gb,Mobile
+639,XIAOMI,Xiaomi Redmi 10 Prime (4+64GB),xiaomi-redmi-10-prime-4-plus-64gb,Mobile
+640,XIAOMI,Xiaomi Redmi 10 Prime (6+128GB),xiaomi-redmi-10-prime-6-plus-128gb,Mobile
+641,XIAOMI,Xiaomi Redmi 10 (4+128GB),xiaomi-redmi-10-4-plus-128gb,Mobile
+642,XIAOMI,Xiaomi Redmi Note 5 (6+128GB),xiaomi-redmi-note-5-6-plus-128gb,Mobile
+643,APPLE,Apple iPad 10.2 (2019) (32GB) Wi-Fi + Mobile Network,apple-ipad-10-2-2019-32gb-wi-fi-plus-mobile-network,Tablet
+644,APPLE,Apple iPad 10.2 (2019) (128GB) Wi-Fi + Mobile Network,apple-ipad-10-2-2019-128gb-wi-fi-plus-mobile-network,Tablet
+645,APPLE,Apple iPad 10.2 (2019) (128GB) Wi-Fi,apple-ipad-10-2-2019-128gb-wi-fi,Tablet
+646,APPLE,Apple iPad 10.2 (2019) (32GB) Wi-Fi,apple-ipad-10-2-2019-32gb-wi-fi,Tablet
+647,APPLE,Apple iPad Air (2019) (64GB) Wi-Fi + Mobile Network,apple-ipad-air-2019-64gb-wi-fi-plus-mobile-network,Tablet
+648,APPLE,Apple iPad mini (2019) (64GB) Wi-Fi + Mobile Network,apple-ipad-mini-2019-64gb-wi-fi-plus-mobile-network,Tablet
+649,APPLE,Apple iPad mini (2019) (256GB) Wi-Fi + Mobile Network,apple-ipad-mini-2019-256gb-wi-fi-plus-mobile-network,Tablet
+650,APPLE,Apple iPad mini (2019) (256GB) Wi-Fi,apple-ipad-mini-2019-256gb-wi-fi,Tablet
+651,APPLE,Apple iPad mini (2019) (64GB) Wi-Fi,apple-ipad-mini-2019-64gb-wi-fi,Tablet
+652,APPLE,Apple iPad Air (2019) (256GB) Wi-Fi,apple-ipad-air-2019-256gb-wi-fi,Tablet
+653,APPLE,Apple iPad Air (2019) (64GB) Wi-Fi,apple-ipad-air-2019-64gb-wi-fi,Tablet
+654,APPLE,Apple iPad 10.2 (2020) (32GB) Wi-Fi + Cellular,apple-ipad-10-2-2020-32gb-wi-fi-plus-mobile-network,Tablet
+655,APPLE,Apple iPad 10.2 (2020) (128GB) Wi-Fi + Cellular,apple-ipad-10-2-2020-128gb-wi-fi-plus-mobile-network,Tablet
+656,APPLE,Apple iPad 10.2 (2020) (128GB) Wi-Fi,apple-ipad-10-2-2020-128gb-wi-fi,Tablet
+657,APPLE,Apple iPad 10.2 (2020) (32GB) Wi-Fi,apple-ipad-10-2-2020-32gb-wi-fi,Tablet
+658,APPLE,Apple iPad Air (2020) (256GB) Wi-Fi,apple-ipad-air-2020-256gb-wi-fi,Tablet
+659,APPLE,Apple iPad Air (2020) (64GB) Wi-Fi,apple-ipad-air-2020-64gb-wi-fi,Tablet
+660,APPLE,Apple iPad Pro 12.9 (2020) (128GB) Wi-Fi + Cellular,apple-ipad-pro-12-9-2020-128gb-wi-fi-plus-mobile-network,Tablet
+661,APPLE,Apple iPad Pro 12.9 (2020) (1TB) Wi-Fi + Cellular,apple-ipad-pro-12-9-2020-1tb-wi-fi-plus-mobile-network,Tablet
+662,APPLE,Apple iPad Pro 12.9 (2020) (256GB) Wi-Fi + Cellular,apple-ipad-pro-12-9-2020-256gb-wi-fi-plus-mobile-network,Tablet
+663,APPLE,Apple iPad Pro 12.9 (2020) (512GB) Wi-Fi + Cellular,apple-ipad-pro-12-9-2020-512gb-wi-fi-plus-mobile-network,Tablet
+664,APPLE,Apple iPad Pro 11 (2020) (128GB) Wi-Fi + Cellular,apple-ipad-pro-11-2020-128gb-wi-fi-plus-mobile-network,Tablet
+665,APPLE,Apple iPad Pro 11 (2020) (1TB) Wi-Fi + Cellular,apple-ipad-pro-11-2020-1tb-wi-fi-plus-mobile-network,Tablet
+666,APPLE,Apple iPad Pro 11 (2020) (256GB) Wi-Fi + Cellular,apple-ipad-pro-11-2020-256gb-wi-fi-plus-mobile-network,Tablet
+667,APPLE,Apple iPad Pro 11 (2020) (512GB) Wi-Fi + Cellular,apple-ipad-pro-11-2020-512gb-wi-fi-plus-mobile-network,Tablet
+668,APPLE,Apple iPad Pro 11 (2020) (128GB) Wi-Fi,apple-ipad-pro-11-2020-128gb-wi-fi,Tablet
+669,APPLE,Apple iPad Pro 11 (2020) (1TB) Wi-Fi,apple-ipad-pro-11-2020-1tb-wi-fi,Tablet
+670,APPLE,Apple iPad Pro 11 (2020) (256GB) Wi-Fi,apple-ipad-pro-11-2020-256gb-wi-fi,Tablet
+671,APPLE,Apple iPad Pro 11 (2020) (512GB) Wi-Fi,apple-ipad-pro-11-2020-512gb-wi-fi,Tablet
+672,APPLE,Apple iPad Pro 11 (2018) (256GB) Wi-Fi,apple-ipad-pro-11-2018-256gb-wi-fi,Tablet
+673,APPLE,Apple iPad Pro 11 (2018) (64GB) Wi-Fi,apple-ipad-pro-11-2018-64gb-wi-fi,Tablet
+674,APPLE,Apple iPad Pro 12.9 (2020) (128GB) Wi-Fi,apple-ipad-pro-12-9-2020-128gb-wi-fi,Tablet
+675,APPLE,Apple iPad Pro 12.9 (2020) (1TB) Wi-Fi,apple-ipad-pro-12-9-2020-1tb-wi-fi,Tablet
+676,APPLE,Apple iPad Pro 12.9 (2020) (256GB) Wi-Fi,apple-ipad-pro-12-9-2020-256gb-wi-fi,Tablet
+677,APPLE,Apple iPad Pro 12.9 (2020) (512GB) Wi-Fi,apple-ipad-pro-12-9-2020-512gb-wi-fi,Tablet
+678,APPLE,Apple  iPad Pro 11 (2021) (128GB) Wi-Fi,apple-ipad-pro-11-2021-128gb-wi-fi,Tablet
+679,APPLE,Apple  iPad Pro 11 (2021) (256GB) Wi-Fi,apple-ipad-pro-11-2021-256gb-wi-fi,Tablet
+680,APPLE,Apple  iPad Pro 11 (2021) (512GB) Wi-Fi,apple-ipad-pro-11-2021-512gb-wi-fi,Tablet
+681,APPLE,Apple  iPad Pro 11 (2021) (1TB) Wi-Fi,apple-ipad-pro-11-2021-1tb-wi-fi,Tablet
+682,APPLE,Apple  iPad Pro 11 (2021) (2TB) Wi-Fi,apple-ipad-pro-11-2021-2tb-wi-fi,Tablet
+683,APPLE,Apple  iPad Pro 12.9 (2021) (128GB) Wi-Fi,apple-ipad-pro-12-9-2021-128gb-wi-fi,Tablet
+684,APPLE,Apple  iPad Pro 12.9 (2021) (256GB) Wi-Fi,apple-ipad-pro-12-9-2021-256gb-wi-fi,Tablet
+685,APPLE,Apple  iPad Pro 12.9 (2021) (512GB) Wi-Fi,apple-ipad-pro-12-9-2021-512gb-wi-fi,Tablet
+686,APPLE,Apple  iPad Pro 12.9 (2021) (1TB) Wi-Fi,apple-ipad-pro-12-9-2021-1tb-wi-fi,Tablet
+687,APPLE,Apple  iPad Pro 12.9 (2021) (2TB) Wi-Fi,apple-ipad-pro-12-9-2021-2tb-wi-fi,Tablet
+688,APPLE,Apple iPad Pro 12.9 (2021) (128GB) Wi-Fi + Cellular,apple-ipad-pro-12-9-2021-128gb-wi-fi-cellular,Tablet
+689,APPLE,Apple iPad Pro 12.9 (2021) (256GB) Wi-Fi + Cellular,apple-ipad-pro-12-9-2021-256gb-wi-fi-cellular,Tablet
+690,APPLE,Apple iPad Pro 12.9 (2021) (512GB) Wi-Fi + Cellular,apple-ipad-pro-12-9-2021-512gb-wi-fi-cellular,Tablet
+691,APPLE,Apple iPad Pro 12.9 (2021) (1TB) Wi-Fi + Cellular,apple-ipad-pro-12-9-2021-1tb-wi-fi-cellular,Tablet
+692,APPLE,Apple iPad Pro 12.9 (2021) (2TB) Wi-Fi + Cellular,apple-ipad-pro-12-9-2021-2tb-wi-fi-cellular,Tablet
+693,APPLE,Apple iPad Pro 11 (2021) (128GB) Wi-Fi + Cellular,apple-ipad-pro-11-2021-128gb-wi-fi-cellular,Tablet
+694,APPLE,Apple iPad Pro 11 (2021) (256GB) Wi-Fi + Cellular,apple-ipad-pro-11-2021-256gb-wi-fi-cellular,Tablet
+695,APPLE,Apple iPad Pro 11 (2021) (512GB) Wi-Fi + Cellular,apple-ipad-pro-11-2021-512gb-wi-fi-cellular,Tablet
+696,APPLE,Apple iPad Pro 11 (2021) (1TB) Wi-Fi + Cellular,apple-ipad-pro-11-2021-1tb-wi-fi-cellular,Tablet
+697,APPLE,Apple iPad Pro 11 (2021) (2TB) Wi-Fi + Cellular,apple-ipad-pro-11-2021-2tb-wi-fi-cellular,Tablet
+698,APPLE,Apple iPad 10.2 (2021) (64GB) Wi-Fi,apple-ipad-10-2-2021-64gb-wi-fi,Tablet
+699,APPLE,Apple iPad 10.2 (2021) (64GB) Wi-Fi + Cellular,apple-ipad-10-2-2021-64gb-wi-fi-cellular,Tablet
+700,APPLE,Apple iPad 10.2 (2021) (256GB) Wi-Fi,apple-ipad-10-2-2021-256gb-wi-fi,Tablet
+701,APPLE,Apple iPad 10.2 (2021) (256GB) Wi-Fi + Cellular,apple-ipad-10-2-2021-256gb-wi-fi-cellular,Tablet
+702,APPLE,Apple iPad mini (5th gen) (2019) (64GB) Wi-Fi,apple-ipad-mini-5th-gen-2019-64gb-wi-fi,Tablet
+703,APPLE,Apple iPad mini (5th gen) (2019) (64GB) Wi-Fi + Cellular,apple-ipad-mini-5th-gen-2019-64gb-wi-fi-cellular,Tablet
+704,APPLE,Apple iPad mini (5th gen) (2019) (256GB) Wi-Fi,apple-ipad-mini-5th-gen-2019-256gb-wi-fi,Tablet
+705,APPLE,Apple iPad mini (5th gen) (2019) (256GB) Wi-Fi + Cellular,apple-ipad-mini-5th-gen-2019-256gb-wi-fi-cellular,Tablet
+706,APPLE,Apple iPad mini (6th gen) (2021) (64GB) Wi-Fi,apple-ipad-mini-6th-gen-2021-64gb-wi-fi,Tablet
+707,APPLE,Apple iPad mini (6th gen) (2021) (64GB) Wi-Fi + Cellular,apple-ipad-mini-6th-gen-2021-64gb-wi-fi-cellular,Tablet
+708,APPLE,Apple iPad mini (6th gen) (2021) (256GB) Wi-Fi,apple-ipad-mini-6th-gen-2021-256gb-wi-fi,Tablet
+709,APPLE,Apple iPad mini (6th gen) (2021) (256GB) Wi-Fi + Cellular,apple-ipad-mini-6th-gen-2021-256gb-wi-fi-cellular,Tablet
+710,APPLE,Apple iPad Air (2020) (64GB) Wi-Fi + Cellular,apple-ipad-air-2020-64gb-wi-fi-cellular,Tablet
+711,APPLE,Apple iPad Air (2020) (256GB) Wi-Fi + Cellular,apple-ipad-air-2020-256gb-wi-fi-cellular,Tablet
+712,APPLE,Apple iPad Air (2022) (64GB) Wi-Fi + Cellular,apple-ipad-air-2022-64gb-wi-fi-plus-cellular,Tablet
+713,APPLE,Apple iPad Air (2022) (256GB) Wi-Fi + Cellular,apple-ipad-air-2022-256gb-wi-fi-plus-cellular,Tablet
+714,APPLE,Apple iPad Air (2022) (64GB) Wi-Fi,apple-ipad-air-2022-64gb-wi-fi,Tablet
+715,APPLE,Apple iPad Air (2022) (256GB) Wi-Fi,apple-ipad-air-2022-256gb-wi-fi,Tablet
+716,HUAWEI,"HUAWEI Matebook D 15, 15.6"", R5 3500U, 8GB/512GB [HUA-53011HYK]",huawei-matebook-d-15-15-6-r5-3500u-8gb-512gb-hua-53011hyk,Laptop
+717,HUAWEI,"HUAWEI MateBook 13, 13"", i7-10510U, 16GB/512GB",huawei-matebook-13-13-i7-10510u-16gb-512gb,Laptop
+718,HUAWEI,"HUAWEI Matebook 14, 14"", R5 4600H, 16GB/512GB [HUA-53011JFH]",huawei-matebook-14-14-r5-4600h-16gb-512gb-hua-53011jfh,Laptop
+719,HUAWEI,"HUAWEI MateBook 13, 13"", R5 3500U, 16GB/512GB",huawei-matebook-13-13-r5-3500u-16gb-512gb,Laptop
+720,HUAWEI,HUAWEI MateBook D 14 i5 (16+512GB),huawei-matebook-d-14-i5-16plus512gb,Laptop
+721,HUAWEI,"HUAWEI MateBook X Pro 2019, 13.9"", i7-8550U, 16GB/512GB",matebook-x-pro-2019-139-i7-8550u-16gb512gb,Laptop
+722,HUAWEI,"HUAWEI MateBook 13, 13"", i7-8565U, 8GB/512GB [53010QNQ]",huawei-matebook-13-13-intel-core-i7-8565u-ram-8gb-512gb-53010qnq-space-grey,Laptop
+723,HUAWEI,"HUAWEI Matebook 14, i5-1135G7, 16GB/512GB [HUA-53011PVM]",huawei-matebook-14-intel-core-i5-1135g7-ram-16gb-512gb-hua-53011pvm,Laptop
+724,HUAWEI,"HUAWEI Matebook 14, 14"", R7 4800H, 16GB/512GB [HUA-53011KDQ]",huawei-matebook-14-14-amd-ryzen-7-4800h-ram-16gb-512gb-hua-53011kdq-space-grey,Laptop
+725,HUAWEI,"HUAWEI MateBook D15, 15.6"", R5 3500U, 8GB/1TB",huawei-matebook-d15-15-6-amd-ryzen-5-3500u-ram-8gb-1000gb-silver,Laptop
+726,HUAWEI,"HUAWEI MateBook X Pro 2020, 13.9"", i7-10510U, 16GB/1TB",huawei-matebook-x-pro-2020-13-9-intel-core-i7-10510u-ram-16gb-1000gb-space-silver,Laptop
+727,HUAWEI,"HUAWEI MateBook D 14, 14"", R7 3700U, 8GB/512GB [HUA-53010XXJ]",huawei-matebook-d-14-14-amd-ryzen-7-3700u-ram-8gb-512gb-hua-53010xxj-mystic-silver,Laptop
+728,HUAWEI,"HUAWEI MateBook D 15, 15.6"", R7 3700U, 8GB/512GB [HUA-53010XXL]",huawei-matebook-d-15-15-6-amd-ryzen-7-3700u-ram-8gb-512gb-hua-53010xxl-mystic-silver,Laptop
+729,HUAWEI,"HUAWEI MateBook 13, 13.3"", i5-10210U, 16GB/512GB",huawei-matebook-13-13-3-i5-10210u-16gb-512gb,Laptop
+730,HUAWEI,"HUAWEI MateBook D 14, 14"", i5-10210U, 8GB/512GB [53011UTP]",huawei-matebook-d-14-14-i5-10210u-8gb-512gb-53011utp,Laptop
+731,HONOR,"HONOR MagicBook 14, 14"", R5 3500U, 8GB/512GB",honor-magicbook-14-14-r5-3500u-8gb-512gb,Laptop
+732,HUAWEI,"HUAWEI MateBook D 15, 15.6"", i5-10210U, 16GB/512GB",huawei-matebook-d-15-15-6-i5-10210u-16gb-512gb,Laptop
+733,HUAWEI,"HUAWEI MateBook D15, 15.6"", i5-1135G7, 16GB/512GB",huawei-matebook-d15-15-6-i5-1135g7-16gb-512gb,Laptop
+734,HUAWEI,"HUAWEI MateBook X Pro 2021, 13.9"", i5-1135G7, 16GB/512GB, Emerald Green",huawei-matebook-x-pro-2021-13-9-i5-1135g7-16gb-512gb-emerald-green,Laptop
+735,HUAWEI,"HUAWEI MateBook X Pro, i7-10510U, 16GB/1TB, Space Grey",huawei-matebook-x-pro-i7-10510u-16gb-1tb-space-grey,Laptop
+736,HUAWEI,"HUAWEI MateBook D 14, 14"", i5-10210U, 16GB/512GB [HUA-53012BYM]",huawei-matebook-d-14-14-i5-10210u-16gb512gb-hua-53012bym,Laptop
+737,HUAWEI,"HUAWEI MateBook D15, 15.6"", i3-10110U, 8GB/256GB",huawei-matebook-d15-15-6-i3-10110u-8gb-256gb,Laptop
+738,HONOR,"HONOR MagicBook 15, 15.6"", i5-1135G7, 16GB/512GB [53011UUY]",honor-magicbook-15-156-i5-1135g7-16gb512gb,Laptop
+739,HUAWEI,"HUAWEI Matebook D 14, 14"", i5-8250U, 8GB/256GB",huawei-matebook-d-14-14-i5-8250u-8gb-256gb,Laptop
+740,HONOR,"Honor MagicBook X 15 -i5, 15.6'', i5-10210U, 8GB/512GB [BBR-WAH9]",honor-magicbook-x-15-15-6-i5-10210u-8gb-512gb,Laptop
+741,HONOR,"HONOR MagicBook X 15, 15.6"", i3-10110U, 8GB/256GB [HON-53011UGE]",honor-magicbook-x-15-15-6-i3-10110u-8gb-256gb,Laptop
+742,REALME,"realme Book, 14"", i5-1135G7, 8GB/512GB",realme-book-14-i5-1135g7-8gb-512gb,Laptop
+743,HUAWEI,"HUAWEI MateBook D 15, 15.6"", i5-10210U, 8GB/512GB",huawei-matebook-d-15-15-6-i5-10210u-8gb-512gb,Laptop
+744,HONOR,"HONOR MagicBook 14 AMD, 14"", R5 5500U, 8GB/256GB",honor-magicbook-14-amd-14-r5-5500u-8gb256gb,Laptop
+745,HONOR,"HONOR MagicBook 14 AMD, 14"", R5 5500U, 8GB/512GB",honor-magicbook-14-amd-14-r5-5500u-8gb512gb,Laptop
+746,HONOR,"Honor MagicBook 15 AMD, 15.6"", R5 5500U, 8GB/256GB [BMH-WDQ9HN]",honor-magicbook-15-amd-156-r5-5500u-8gb256gb,Laptop
+747,HUAWEI,"HUAWEI Matebook 13, 13"", R7 4800H, 16GB/512GB",huawei-matebook-13-13-r7-4800h-16gb512gb,Laptop
+748,HUAWEI,"HUAWEI Matebook D14, 14"", i3-10110U, 8/256GB",huawei-matebook-d14-14-i3-10110u-8256gb,Laptop
+749,HUAWEI,"HUAWEI Matebook 14s, 14.2"", i7-11370H, 16GB/1TB",huawei-matebook-14s-142-i7-11370h-16gb1tb,Laptop
+750,HUAWEI,"HUAWEI Matebook 14s, 14.2"", i5-11300H, 8GB/512GB",huawei-matebook-14s-142-i5-11300h-8gb512gb,Laptop
+751,HUAWEI,"HUAWEI Matebook 14, 14"", i5-1135G7, 8GB/512GB",huawei-matebook-14-14-i5-1135g7-8gb512gb,Laptop
+752,HONOR,"HONOR MagicBook Pro, 16.1"", R5 4600H, 16GB/512GB [53011SXX / KCD]",honor-magicbook-pro-16-1-r5-4600h-16gb-512gb,Laptop
+753,REALME,"Realme Book Laptop, 14"", i3-1115G4, 8GB/256GB",realme-book-laptop-14-i3-1115g4-8gb-256gb,Laptop
+754,HUAWEI,"HUAWEI MateBook D15 (2021), 15.6"",  i5-1135G7, 8GB/512GB",huawei-matebook-d15-156-i5-1135g7-8gb512gb,Laptop
+755,HONOR,"HONOR MagicBook 14 AMD, 14"", R5 3500U, 8GB/256GB",honor-magicbook-14-amd-14-r5-3500u-8gb-256gb,Laptop
+756,HONOR,"HONOR MagicBook 14 AMD, 14"", R5 3500U, 16GB/512GB",honor-magicbook-14-amd-14-r5-3500u-16gb-512gb,Laptop
+757,HUAWEI,"HUAWEI Matebook 14s, 14.2"", i7-11370H, 16GB/512GB",huawei-matebook-14s-142-i7-11370h-16gb512gb,Laptop
+758,HONOR,"HONOR Magicbook 16, 16.1"", R7 5800H, 16GB/512GB",honor-magicbook-16-16-1-r7-5800h-16gb-512gb,Laptop
+759,HUAWEI,"HUAWEI MateBook D15 (2021), 15.6"",  i5-1135G7, 8GB/512GB (Intel Iris XE)",huawei-matebook-d15-2021-156-i5-1135g7-8gb512gb-intel-iris-xe,Laptop

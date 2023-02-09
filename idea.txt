@@ -10,4 +10,4 @@ JSON : mods -> listItems -> for each (0:16) -> name, sellerName, originalPrice, 
 -	Might be able to use Lazada search to look for product
 
 to run env:
-venv/Scripts/activate.bat
+source env.sh

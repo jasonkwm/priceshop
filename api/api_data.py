@@ -2,7 +2,7 @@ import  json
 import  numpy as np
 import  pandas as pd
 
-with open("demo.json") as json_file:
+with open("no.json") as json_file:
     data = json.load(json_file)
 
 for items in data["mods"]["listItems"]:
